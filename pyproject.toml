@@ -1,0 +1,31 @@
+[project]
+name = "chess-insights"
+version = "0.1.0"
+description = "Data processing and analytics pipeline for chess games."
+authors = [
+    {name = "Milena"}
+]
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "pandas (>=2.3.3,<3.0.0)",
+    "python-chess (>=1.999,<2.0)",
+    "mysql-connector-python (>=9.5.0,<10.0.0)",
+    "redis (>=7.0.1,<8.0.0)",
+    "python-dotenv (>=1.2.1,<2.0.0)"
+]
+
+packages = [
+    { include = "chess_insights", from = "src" }
+]
+
+
+[build-system]
+requires = ["poetry-core>=2.0.0,<3.0.0"]
+build-backend = "poetry.core.masonry.api"
+
+[dependency-groups]
+dev = [
+    "pytest (>=9.0.0,<10.0.0)",
+    "mypy (>=1.18.2,<2.0.0)"
+]
