@@ -1,0 +1,1451 @@
+-bash: cd: mnt: No such file or directory
+linuxmi@DESKTOP-UQCGKJU:~$ pwd
+/home/linuxmi
+linuxmi@DESKTOP-UQCGKJU:~$ sudo mkdir -p /mnt/c
+sudo mount -t drvfs C: /mnt/c
+linuxmi@DESKTOP-UQCGKJU:~$ ls /mnt/c/Users
+'All Users'   Default  'Default User'   Public   desktop.ini   lenovo
+linuxmi@DESKTOP-UQCGKJU:~$ cd /mnt/c/Users/lenovo/Documents
+linuxmi@DESKTOP-UQCGKJU:/mnt/c/Users/lenovo/Documents$ cd /chess-insights/chess-insights
+-bash: cd: /chess-insights/chess-insights: No such file or directory
+linuxmi@DESKTOP-UQCGKJU:/mnt/c/Users/lenovo/Documents$ lst
+Command 'lst' not found, but there are 23 similar ones.
+linuxmi@DESKTOP-UQCGKJU:/mnt/c/Users/lenovo/Documents$ ls
+'01.El Ruso En Ejercicios.pdf'
+'01.Russian in Exercises.pdf'
+'01.Начинаем читать по-русски!.pdf'
+'02.A Living Russian Grammar Beginner-Intermediate Audio.rar'
+'02.A Living Russian Grammar Beginner-Intermediate.pdf'
+'02.A living Russian grammar part 2 Intermediate II.pdf'
+'02.A living Russian grammar part 3 Advanced.pdf'
+'02.Шкатулочка пособие по чтению для иностранцев, начинающих изучать русский язык (элементарный уровень).pdf'
+'03.Russian Grammar Workbook Рабочая тетрадь по русской грамматике.djvu'
+'03.Шкатулка пособие по чтению для иностранцев, начинающих изучать русский язык.pdf'
+'04.Teach yourself Russian Grammar.djvu'
+'04.Приключения иностранцев в России Рассказы для чтения и обсуждения.pdf'
+'05.Russian Grammar in Literary Contexts.pdf'
+'05.Непропавшие сюжеты пособие по чтению для иностранцев, изучающих русский язык.pdf'
+'06.El Ruso Gramatica Practica.pdf'
+'06.Russian A Practical Grammar with Exercises.pdf'
+'07.Russian Grammar (Schaum'\''s Outlines).pdf'
+'07.Удивительные истории. 116 текстов для чтения, изучения и развлечения.pdf'
+'08.Intermediate Russian a Grammar and Workbook.pdf'
+'08.Читая сказки.pdf'
+'09.Russian Grammar in Exercises and Comments. Part 1. Morphology.pdf'
+'09.Россия день сегодняшний. Тексты и упражнения.pdf'
+ 0x1900-000000-80-0-0.jpg
+'10.Russian Grammar in Exercises and Comments. Part 2. Syntax.pdf'
+'10.Россия экономика и общество. Тексты и упражнения.pdf'
+'11.Трудные случаи русской грамматики - Problems of Russian Grammar an Exercise Collection.pdf'
+ 114639fbs.jpg
+'12.Short Stories By Soviet Writers Parallel Texts.pdf'
+'12.По-русски - без ошибок! Пособие по грамматике русского языка для иностранных учащихся.pdf'
+'13.An Advanced Russian Tabloid Reader.pdf'
+'13.Практическая грамматика для иностранных студентов.pdf'
+ 14-CB
+"14.Chekhov's Humorous Short Stories Russian Reader with Explanatory Notes and Vocabulary.pdf"
+'14.Essential Russian Grammar.pdf'
+'15.Seryozha a Russian Reader with Explanatory Notes and Vocabulary Audio.rar'
+'15.Seryozha a Russian Reader with Explanatory Notes and Vocabulary.pdf'
+'15.The Oxford Russian Grammar and Verbs.pdf'
+ 154645667_3676165582471473_1716308213881709473_n.jpg
+'16.Домашнее чтение Учебное пособие.pdf'
+'16.Русский язык в грамматических таблицах.pdf'
+'17.Грамматика русского языка в иллюстрациях.djvu'
+'17.От Пушкина до Бродского Антология русской поэзии XIX—XX веков.pdf'
+'18.Spravochnik po russkoy grammatike.djvu'
+'18.Русский без границ Part 3 Literature.pdf'
+'19.A Comprehensive Russian Grammar (Blackwell).pdf'
+ 1c1uej.jpg
+'20.A Reference Grammar of Russian (Cambridge).pdf'
+'20.Я читаю по-русски - I Read Russian.pdf'
+ 2024_-_-_.PDF
+ 20d45b5c-92bd-4572-bd3e-7d64d83a04bf.pdf
+'21.Modern Russian Grammar A Practical Guide.pdf'
+'21.Россия день за днем - Russia Day by Day.pdf'
+ 219107985_Vadim_Zeland_Transurfing_6_Gos.pdf
+'22.Using Russian A Guide to Contemporary Usage.pdf'
+'22.Лермонтов М.Ю. - Тамань (Лёгкое чтение).pdf'
+'23.The Case Book for Russian.pdf'
+'23.Читаем о России по-русски.pdf'
+ 239207.png
+'24.What case What preposition Verbal and nominal government - Какой падеж Какой предлог Глагольное и именное управление.pdf'
+'24.Читаем и всё понимаем.pdf'
+'25.Падежи! Ах падежи! Сборник упражнений по глагольному управлению.pdf'
+ 25.Чехов.pdf
+'26.А.С. Пушкин.pdf'
+'26.Русские падежи.pdf'
+'27.Русский язык как иностранный. Рабочая тетрадь I сертификационный уровень.pdf'
+'27.Читаем тексты по литературе. Учебное пособие.pdf'
+'28.Берегись автомобиля!.djvu'
+'28.Русский язык как иностранный Синтаксис простого и сложного предложения.pdf'
+'29.Along The Fairy-Tale Path - По сказочной дорожке. Выпуск 1.djvu'
+'29.Синтаксис письменной книжной речи выражение обстоятельственных отношений.pdf'
+ 2e7d6121-1cf7-4bdc-b90b-e7092c7d90e0.pdf
+'30.Справочник по русскому языку. Практическая стилистика.pdf'
+'31.Sintaksicheskaya frazeologiya dlya russkih i inostrancev.pdf'
+'32.Русский без границ Part 2 Grammar.pdf'
+'33.Learning and Training Tests in Russian as a Foreign Language.rar'
+'34.Русский язык первые результаты. Тестовый практикум по русскому языку повседневного общения.pdf'
+'35.53 модели русской грамматики. Базовый курс.pdf'
+'36.Basic Russian A Grammar and Workbook.pdf'
+"37.Teach Yourself Beginner's Russian Grammar.pdf"
+'38.Русские падежи. Сборник упражнений.pdf'
+'39.Русские падежи конструкции в упражнениях. Рабочая тетрадь.pdf'
+'40.Цикловой контроль сборник контрольных работ по русскому языку.pdf'
+'41.Чистая грамматика - Pure Grammar.pdf'
+'42.Практикум по русской грамматике. Часть 2. Синтаксис простого и сложного предложения.pdf'
+'43.Синтаксис сложноподчинённого предложения.pdf'
+'44.Знакомьтесь деепричастие - Introducing the Adverbial participle.pdf'
+'45.Русская грамматика в анекдотах.pdf'
+'46.Русский язык в картинках.djvu'
+ 47900357_Vadim_Zeland_Transurfing_2_Sum.pdf
+ 53933749_Vadim_Zeland_Transurfing_3_Napr.pdf
+ 56514444_Vadim_Zeland_Transurfing_4_Upra.pdf
+ 6776a9ba80090d6870c6080e.pdf
+ 78652364_Vadim_Zeland_Apokrifni_Transurf.pdf
+ Anti-Cheating.xlsx
+'Averbakh, Yuri - Comprehensive Chess Endings 1 - Bishop & Knight.djvu'
+'Averbakh, Yuri - Comprehensive Chess Endings 2 - Bishop vs Knight, Rook vs Minor Pieces.pdf'
+'Averbakh, Yuri - Comprehensive Chess Endings 3 - Queen Endings.djvu'
+'Averbakh, Yuri - Comprehensive Chess Endings 4 - Pawn Endings.pdf'
+'Averbakh, Yuri - Comprehensive Chess Endings 5 - Rook Endings.pdf'
+ B2765711_41.jpg
+'Backup Of freertos.pdsbak'
+'Backup Of januar22.pdsbak'
+'Backup Of lcdtast.pdsbak'
+'Backup Of timer.pdsbak'
+'Backup Of timer_input_capture.pdsbak'
+'Backup Of timer_output.pdsbak'
+ CNIRS.png
+ CapCut_7418888910752907270_installer.exe
+ Censius.ai.txt
+ ChessBase
+'Code Snippets'
+'Computer Vision'
+'Computer Vision Masterclass-20241220T164228Z-001'
+'Computer Vision Masterclass-20241220T164228Z-001.zip'
+'Copy Mini Interview Questions EUR 24.docx'
+ Copy_of_Computer_Vision_Masterclass_Face_detection.ipynb
+'Cracking-the-Coding-Interview-6th-Edition-189-Programming-Questions-and-Solutions (1).pdf'
+ Cracking-the-Coding-Interview-6th-Edition-189-Programming-Questions-and-Solutions.pdf
+'Custom Office Templates'
+'DALL·E 2024-12-09 18.31.21 - A realistic digital artwork featuring a young woman standing confidently.webp'
+'DALL·E 2024-12-09 18.31.49 - A realistic digital artwork featuring a young woman standing confidently.webp'
+ DOM_muška_lista.xlsx
+ DOM_ženska_lista.xlsx
+ DSC
+'Data centar.docx'
+'Data centar.pdf'
+ DiscordSetup.exe
+'Drzave istorija.xlsx'
+'Envisioneer Express 5.0'
+ F.-M.-Dostojevski-Idiot.pdf
+ F13136294370.htm
+ F13237529840.htm
+ F13239268750.htm
+ F2575637650.htm
+ F4051965150.htm
+ F454866400.htm
+ F4931129060.htm
+ F5668975930.htm
+ F7363922810.htm
+ F8171352810.htm
+ F8175329370.htm
+ F8176030620.htm
+ F8183103750.htm
+ F8183839370.htm
+ FTO_9581.JPG
+'Face Detection'
+ FileAssoc_Params_DeleteIt.txt
+ FlashIntegro
+'Gary Gauthier - ABC of Chess Middlegames-20240409T130332Z-001'
+ GitHub
+'HR_Open Advent Dubrovnik 2024.pdf'
+ Head-mounted_display_and_wired_gloves,_Ames_Research_Center.jpg
+ IISExpress
+ IMG-20241028-WA0004.jpg
+ IMG-20241028-WA0005.jpg
+ IMG_3870.JPG
+ Image-Line
+ Invitation_Alija2024_ENG.pdf
+ Invitation_Rilton_Cup_2024_2025.pdf
+'KST novembar presek.xlsx'
+'KST škola šaha.xlsx'
+ KST-excel.xlsx
+'Last Loaded freertos.pdsbak'
+'Last Loaded januar22.pdsbak'
+'Last Loaded lcdtast.pdsbak'
+'Last Loaded rcc_gpio.pdsbak'
+'Last Loaded timer.pdsbak'
+'Last Loaded timer_input_capture.pdsbak'
+'Last Loaded timer_output.pdsbak'
+'Lichess priručnik.pdf'
+'Logical Chess - Commented Games-20240416T150623Z-001'
+'MAGAZIN - OPIJUM (OFFICIAL VIDEO 1997) [music].wav'
+'MAGAZIN - OPIJUM (OFFICIAL VIDEO 1997) [vocals].wav'
+'MAGAZIN - OPIJUM (OFFICIAL VIDEO 1997).mp3'
+ MIPS_februar_2022_projekat
+ MIPS_februar_2022_projekat.zip
+ MSTRAT.cbv
+'Mario set.pdf'
+'Marketing tim - raspored.pdf'
+'Mega Database 2024.bmp'
+'Mega Database 2024.cba'
+'Mega Database 2024.cbb'
+'Mega Database 2024.cbc'
+'Mega Database 2024.cbe'
+'Mega Database 2024.cbg'
+'Mega Database 2024.cbgi'
+'Mega Database 2024.cbh'
+'Mega Database 2024.cbj'
+'Mega Database 2024.cbl'
+'Mega Database 2024.cbm'
+'Mega Database 2024.cbp'
+'Mega Database 2024.cbs'
+'Mega Database 2024.cbt'
+'Mega Database 2024.cbtt'
+'Mega Database 2024.cbv'
+'Mega Database 2024.cib'
+'Mega Database 2024.cib2'
+'Mega Database 2024.cit'
+'Mega Database 2024.cit2'
+'Mega Database 2024.ck1'
+'Mega Database 2024.ck2'
+'Mega Database 2024.ck3'
+'Mega Database 2024.ckn'
+'Mega Database 2024.cko'
+'Mega Database 2024.cp1'
+'Mega Database 2024.cp2'
+'Mega Database 2024.cp3'
+'Mega Database 2024.cpn'
+'Mega Database 2024.cpo'
+'Mega Database 2024.flags'
+'Mega Database 2024.html'
+'Mega Database 2024.ini'
+'Mega Database 2024.rb0'
+'Mega Database 2024.rb1'
+'Mega Database 2024.rb2'
+'Milena Vujcic sve partije.cba'
+'Milena Vujcic sve partije.cbc'
+'Milena Vujcic sve partije.cbe'
+'Milena Vujcic sve partije.cbg'
+'Milena Vujcic sve partije.cbh'
+'Milena Vujcic sve partije.cbj'
+'Milena Vujcic sve partije.cbl'
+'Milena Vujcic sve partije.cbm'
+'Milena Vujcic sve partije.cbp'
+'Milena Vujcic sve partije.cbs'
+'Milena Vujcic sve partije.cbt'
+'Milena Vujcic sve partije.cbtt'
+'Milena Vujcic sve partije.cbv'
+'Milena Vujcic sve partije.ini'
+'Milena Vujcic_CV_edit.docx'
+'Milena Vujcic_CV_milosh.docx'
+'Milena Vujcic_CV_srb.pdf'
+ Milena+Milojic+CV.pdf
+ Milena.docx
+ Milena_AI_CV.docx
+'Milica Projekat'
+'My Models'
+'My Music'
+'My Pictures'
+'My Videos'
+'My Web Sites'
+ NIK_0424.JPG
+ NIK_0425.JPG
+ Naruto
+'Nenaslovljeni dizajn.pdf'
+ NetBeansProjects
+ Notes_231201_005350.pdf
+'Notes_240306_144121 (1).pdf'
+ Notes_240306_144121.pdf
+'Notes_240502_190708 (2)PDF_241021_214358.pdf'
+'Nunn, John - Understanding Chess Middlegames (2011).pdf'
+ OfficeSetup.exe
+ Performanse_racunarskih_sistema.pdf
+'Podaci o mentoru.pdf'
+'Podaci o stručnoj osobi.pdf'
+ Potvrda.pdf
+ Pristupnica.pdf
+ Prodaja.xlsx
+'Raspis_Zimski2025_SRB (1).pdf'
+ Raspis_Zimski2025_SRB.pdf
+'Roar of the Queen.mp3'
+'SQL Server Management Studio'
+ SavedGames
+'Screenshot_20241021_214756_Samsung Notes.jpg'
+'Screenshot_20250222_205752_TV Time.jpg'
+"Supplementary data for the paper 'A role of peripheral vision in chess_ Evidence from a gaze-contingent method'_2_all"
+"Supplementary data for the paper 'A role of peripheral vision in chess_ Evidence from a gaze-contingent method'_2_all.zip"
+'TRI MUSKETARA.txt'
+'The Ultimate Chess Puzzle Book.pdf'
+'The complete chess workout 1200.pdf'
+ Transurfing_Karte_sudbine.pdf
+'Turnir 1.xlsx'
+ UC-20d3b165-4f3a-4c52-8957-40a804c2c4db.pdf
+'Understanding Chess Endgames.pdf'
+ UniversalAdbDriverSetup.msi
+ Vadim_Zeland_Transurfing_1_Prostranstvo.pdf
+ Vadim_Zeland_Transurfing_5_jabuke_padaju.pdf
+ ViberDownloads
+'Videos - Shortcut.lnk'
+'Virtual Machines'
+'Visual Studio 2017'
+'Visual Studio 2022'
+ VisualStudioSetup.exe
+ WACC2025_Raspis_Srbija.pdf
+'WhatsApp Image 2024-11-06 at 16.46.49.jpeg'
+'WhatsApp Image 2024-11-06 at 16.47.19.jpeg'
+'WhatsApp Image 2024-12-09 at 18.19.25.jpeg'
+'WhatsApp Image 2024-12-09 at 18.19.34.jpeg'
+'WhatsApp Image 2024-12-09 at 18.24.43.jpeg'
+'WhatsApp Image 2024-12-09 at 18.26.22.jpeg'
+'WhatsApp Image 2024-12-09 at 20.06.10.jpeg'
+'WhatsApp Image 2024-12-09 at 20.10.42.jpeg'
+'WhatsApp Image 2025-01-03 at 23.51.06.jpeg'
+ WindowsPowerShell
+'Winning Chess Tactics.pdf'
+ Yoshi.pdf
+ _r_a_p_.tmp
+ access_token-10092024152223.json
+ aleks.JPG
+ aleks.xcf
+ aleksfrizbi.png
+ aleksleks.png
+ alekszabuna.png
+ alekszabuna.xcf
+ anti-cheating
+ basic_pitch_transcription.mid
+'beleske - job fair.txt'
+ bpp-1728678998180.html
+ bpp-1728679786753.html
+ bpp-1728681165919.html
+ chess-insights-pipeline
+ cmake-3.31.3-windows-x86_64.msi
+ cmake-3.31.3.zip
+ daiana0.xcf
+ daiana1.xcf
+ daiana2.xcf
+ daiana4.xcf
+ daiana6.xcf
+ daiana7.xcf
+ data-storage-icon-vector.jpg
+ desktop.ini
+ diplomiranje
+ dj
+ djole.jpeg
+ djole.jpg
+ djoleee.jpeg
+ djoleeeee.jpeg
+ dscslideovi
+ dscslideovi.zip
+ en.stm32cubemx-v6.3.0-win
+ en.stm32cubemx-v6.3.0-win.zip
+ envisioneer-express.exe
+ faks
+ final.jpeg
+ final.pdf
+ finish.png
+ finish.xcf
+ flstudio_win64_24.2.1.4526.exe
+'flutter materijali'
+ flutter_windows_3.22.2-stable
+ flutter_windows_3.22.2-stable.zip
+ folding-screen-smartphone-vector-graphics-illustration-eps-source-file-format-lossless-scaling-icon_1040974-22701.jpg
+ fphys-13-1028907.pdf
+ freertos.pdsprj
+ freertos.pdsprj.DESKTOP-UQCGKJU.lenovo.workspace
+ frizbi.jpg
+ frizbi.png
+ frizbi.xcf
+ game_59_Stockfish6_AnjaSimic.pgn
+ game_60_AnjaSimic_Stockfish6.pgn
+ game_61_Stockfish6_AnjaSimic.pgn
+ game_62_AnjaSimic_Stockfish6.pgn
+ game_63_Stockfish6_AnjaSimic.pgn
+ game_64_VladislavBrankovic_Stockfish6.pgn
+ game_65_Stockfish6_VladislavBrankovic.pgn
+ game_66_VladislavBrankovic_Stockfish6.pgn
+ game_67_Stockfish6_VladislavBrankovic.pgn
+ game_68_VladislavBrankovic_Stockfish6.pgn
+ game_69_VladislavBrankovic_Stockfish6.pgn
+ game_70_VladislavBrankovic_Stockfish6.pgn
+ game_71_Stockfish6_VladislavBrankovic.pgn
+ game_72_VladislavBrankovic_Stockfish6.pgn
+ game_73_Stockfish6_VladislavBrankovic.pgn
+ game_74_VladislavBrankovic_Stockfish6.pgn
+ game_75_Stockfish6_VladislavBrankovic.pgn
+ gazefeatures.xlsx
+ gurel_ivic_2023.pgn
+ hb.png
+ image.webp
+ indeks1.jpeg
+ indeks2.jpeg
+ istockphoto-174688223-612x612.jpg
+'ja i neko.webp'
+ ja.mp3
+ ja.pdf
+ jaa.mp3
+ jaaa.mp3
+ jaaaa.mp3
+ jakarta.pdf
+ januar.pdsprj
+ januar.pdsprj.DESKTOP-UQCGKJU.lenovo.workspace
+ januar22.pdsprj
+ januar22.pdsprj.DESKTOP-UQCGKJU.lenovo.workspace
+ javascriptVezbanje
+ jdk-21.0.2_windows-x64_bin.exe
+ jupi.zip
+ kan1.xcf
+ kan2.xcf
+ kan3.xcf
+ kan4.xcf
+ kan5.xcf
+ kan6.xcf
+ kan7.xcf
+ kcal.xlsx
+ kst-svi.csv
+ kupdf.net_koblenz-a-sahovsko-umijece_b1ff10ec-f916-4535-a29b-be1cc4298379.pdf
+ lcdtast.pdsprj
+ lcdtast.pdsprj.DESKTOP-UQCGKJU.lenovo.workspace
+ leks.png
+ leks.xcf
+ leksaleks.png
+ letileks.png
+ letileks.xcf
+ lichess_study_caro-kann-gothamchess_by_henriecki_2021.07.24.ini
+ lichess_study_caro-kann-gothamchess_by_henriecki_2021.07.24.pgn
+ lichess_study_kid_by_eltuna_2024.10.26.ini
+ lichess_study_kid_by_eltuna_2024.10.26.pgn
+ lichess_study_my-games-9_by_eltuna_2024.12.11.ini
+ lichess_study_my-games-9_by_eltuna_2024.12.11.pgn
+ lichess_tournament_2024.12.18_woUyEP8P_kst-turnir.csv
+ lichess_tournament_2024.12.20_7s4B8D5W_kst.csv
+ lk.pdf
+ mamaigre.zip
+ mem_test.cpp
+ mfub.png
+ milica.webp
+ minecraftkampovi.zip
+ mingw-get-setup.exe
+ mips-domaci-zadatak-2023-2024-resenje
+ mips-domaci-zadatak-2023-2024-resenje.zip
+ mips-lekcija-09-materijali.zip
+ mp.jpg
+ myvers.zip
+ napredna.csv
+ naruto-app
+ office_seats
+ officeseats
+ os-k3-pdf.pdf
+ os-k3-pdff.pdf
+ os1-razvojno-izvrsno-okruzenje.mp4
+ otac.pdf
+ otackarta.pdf
+ pdfcoffee.com_alexander-kotov-think-like-a-grandmasterpdf-pdf-free.pdf
+ petnica.png
+ pia
+ pia_projekat
+ pia_projekat.zip
+ piapull
+'players (1).csv'
+ players.csv
+ pn.jpg
+ pn.webp
+ pnfrizbileti.png
+ pnfrizbiletih.png
+ pnfrizbiletih.xcf
+ pocetna.csv
+ pocetna_kamp.txt
+ prep.docx
+ project-base-v1.16.zip
+ project-base-v1.17.zip
+ project-base-v1.1radi.zip
+ project-base-v1.1resenje
+ project-base-v1.1resenje.zip
+ project-base-v1.1update
+ project-base-v1.1update.zip
+ proteus8.9.SP2.28501.cracked
+ proteus8.9.SP2.28501.cracked.zip
+ put-ka-majstorstvu-z.pdf
+ python-3.13.1-amd64.exe
+ radovi
+ ratings.xlsx
+ rcc_gpio.pdsprj
+ rcc_gpio.pdsprj.DESKTOP-UQCGKJU.lenovo.workspace
+ roblox
+'rodj 2024'
+'rounds (1).csv'
+ rounds.csv
+'ruski 2.pdf'
+ ruski.pdf
+ sah
+ sh.rar
+ slike
+ slike_drajv
+ srednja.csv
+ srsn.png
+'standings (1).csv'
+'standings 17-11.csv'
+ standings-1-12.csv
+ standings.csv
+ steto.png
+ studenata-tehnike.png
+ sveok.zip
+ tila.pdf
+ timer.pdsprj
+ timer.pdsprj.DESKTOP-UQCGKJU.lenovo.workspace
+ timer_input_capture.pdsprj
+ timer_input_capture.pdsprj.DESKTOP-UQCGKJU.lenovo.workspace
+ timer_output.pdsprj
+ timer_output.pdsprj.DESKTOP-UQCGKJU.lenovo.workspace
+'undefined - Imgur.jpg'
+ uraaaaaa_sve_radi_i_mem_alloc.zip
+ v05-makro-procesori-executable.zip
+ veuve-clicquot-brut-yellow-label-magnum-1-5l-champagne.webp
+ vezbanje
+ viber_image_2025-07-08_21-19-25-157.jpg
+ viber_image_2025-07-08_21-19-26-672.jpg
+ viber_image_2025-07-08_21-19-27-281.jpg
+ vm200325.zip
+ vm200325d.pdf
+'~$gazefeatures.xlsx'
+'~$Презентација - Милена Вујчић.pptx'
+'~$пломски рад - Милена Вујчић.docx'
+'Šablon prezentacije završnog rada.pptx'
+'Дипломски - Тетрис.pdf'
+'Дипломски рад - Милена Вујчић (1).docx'
+'Дипломски рад - Милена Вујчић.docx'
+'Дипломски рад - Милена Вујчић.pdf'
+'Новогодишњи рапид Стари град 2024.pdf'
+'Презентација - Милена Вујчић.pdf'
+'Презентација - Милена Вујчић.pptx'
+ Презентација.pdf
+ Распис.pdf
+'Резултати анкете (1).pdf'
+ Србија_опен_2025_домаћи_учесници.pdf
+ Трофеј_2024_Србија.pdf
+'📋 Spisak analiza.pdf'
+linuxmi@DESKTOP-UQCGKJU:/mnt/c/Users/lenovo/Documents$ cd chess-insights-pipeline
+linuxmi@DESKTOP-UQCGKJU:/mnt/c/Users/lenovo/Documents/chess-insights-pipeline$ lst
+Command 'lst' not found, but there are 23 similar ones.
+linuxmi@DESKTOP-UQCGKJU:/mnt/c/Users/lenovo/Documents/chess-insights-pipeline$ ls
+chess-insights
+linuxmi@DESKTOP-UQCGKJU:/mnt/c/Users/lenovo/Documents/chess-insights-pipeline$ cd chess-insights
+linuxmi@DESKTOP-UQCGKJU:/mnt/c/Users/lenovo/Documents/chess-insights-pipeline/chess-insights$ sudo apt update
+Hit:1 http://security.ubuntu.com/ubuntu noble-security InRelease
+Hit:2 http://archive.ubuntu.com/ubuntu noble InRelease
+Hit:3 http://archive.ubuntu.com/ubuntu noble-updates InRelease
+Hit:4 http://archive.ubuntu.com/ubuntu noble-backports InRelease
+Reading package lists... Done
+Building dependency tree... Done
+Reading state information... Done
+36 packages can be upgraded. Run 'apt list --upgradable' to see them.
+linuxmi@DESKTOP-UQCGKJU:/mnt/c/Users/lenovo/Documents/chess-insights-pipeline/chess-insights$ sudo apt install python3-venv python3-full -y
+Reading package lists... Done
+Building dependency tree... Done
+Reading state information... Done
+python3-venv is already the newest version (3.12.3-0ubuntu2).
+The following packages were automatically installed and are no longer required:
+  libdrm-nouveau2 libdrm-radeon1 libgl1-amber-dri libglapi-mesa libllvm17t64 libxcb-dri2-0
+Use 'sudo apt autoremove' to remove them.
+The following additional packages will be installed:
+  2to3 blt fonts-mathjax idle idle-python3.12 libjs-mathjax libpython3.12-testsuite libtcl8.6 libtk8.6 libxss1
+  net-tools python3-doc python3-examples python3-lib2to3 python3-tk python3.12-doc python3.12-examples python3.12-full
+  tk8.6-blt2.5
+Suggested packages:
+  blt-demo fonts-mathjax-extras fonts-stix libjs-mathjax-doc tcl8.6 tk8.6 tix python3-tk-dbg
+The following NEW packages will be installed:
+  2to3 blt fonts-mathjax idle idle-python3.12 libjs-mathjax libpython3.12-testsuite libtcl8.6 libtk8.6 libxss1
+  net-tools python3-doc python3-examples python3-full python3-lib2to3 python3-tk python3.12-doc python3.12-examples
+  python3.12-full tk8.6-blt2.5
+0 upgraded, 20 newly installed, 0 to remove and 36 not upgraded.
+Need to get 28.6 MB of archives.
+After this operation, 159 MB of additional disk space will be used.
+Get:1 http://archive.ubuntu.com/ubuntu noble/universe amd64 python3-lib2to3 all 3.12.3-0ubuntu1 [78.0 kB]
+Get:2 http://archive.ubuntu.com/ubuntu noble-updates/universe amd64 2to3 all 3.12.3-0ubuntu2 [11.0 kB]
+Get:3 http://archive.ubuntu.com/ubuntu noble/main amd64 libtcl8.6 amd64 8.6.14+dfsg-1build1 [988 kB]
+Get:4 http://archive.ubuntu.com/ubuntu noble/main amd64 libxss1 amd64 1:1.2.3-1build3 [7204 B]
+Get:5 http://archive.ubuntu.com/ubuntu noble/main amd64 libtk8.6 amd64 8.6.14-1build1 [779 kB]
+Get:6 http://archive.ubuntu.com/ubuntu noble/main amd64 tk8.6-blt2.5 amd64 2.5.3+dfsg-7build1 [630 kB]
+Get:7 http://archive.ubuntu.com/ubuntu noble/main amd64 blt amd64 2.5.3+dfsg-7build1 [4840 B]
+Get:8 http://archive.ubuntu.com/ubuntu noble/main amd64 fonts-mathjax all 2.7.9+dfsg-1 [2208 kB]
+Get:9 http://archive.ubuntu.com/ubuntu noble/main amd64 python3-tk amd64 3.12.3-0ubuntu1 [102 kB]
+Get:10 http://archive.ubuntu.com/ubuntu noble/main amd64 libjs-mathjax all 2.7.9+dfsg-1 [5665 kB]
+Get:11 http://archive.ubuntu.com/ubuntu noble-updates/universe amd64 idle-python3.12 all 3.12.3-1ubuntu0.8 [423 kB]
+Get:12 http://archive.ubuntu.com/ubuntu noble-updates/universe amd64 idle all 3.12.3-0ubuntu2 [2738 B]
+Get:13 http://archive.ubuntu.com/ubuntu noble-updates/main amd64 net-tools amd64 2.10-0.1ubuntu4.4 [204 kB]
+Get:14 http://archive.ubuntu.com/ubuntu noble-updates/universe amd64 libpython3.12-testsuite all 3.12.3-1ubuntu0.8 [4635 kB]
+Get:15 http://archive.ubuntu.com/ubuntu noble-updates/main amd64 python3.12-doc all 3.12.3-1ubuntu0.8 [12.1 MB]
+Get:16 http://archive.ubuntu.com/ubuntu noble-updates/main amd64 python3-doc all 3.12.3-0ubuntu2 [10.3 kB]
+Get:17 http://archive.ubuntu.com/ubuntu noble-updates/main amd64 python3.12-examples all 3.12.3-1ubuntu0.8 [797 kB]
+Get:18 http://archive.ubuntu.com/ubuntu noble-updates/main amd64 python3-examples all 3.12.3-0ubuntu2 [886 B]
+Get:19 http://archive.ubuntu.com/ubuntu noble-updates/universe amd64 python3.12-full amd64 3.12.3-1ubuntu0.8 [1120 B]
+Get:20 http://archive.ubuntu.com/ubuntu noble-updates/universe amd64 python3-full amd64 3.12.3-0ubuntu2 [1160 B]
+Fetched 28.6 MB in 8s (3457 kB/s)
+Selecting previously unselected package python3-lib2to3.
+(Reading database ... 50478 files and directories currently installed.)
+Preparing to unpack .../00-python3-lib2to3_3.12.3-0ubuntu1_all.deb ...
+Unpacking python3-lib2to3 (3.12.3-0ubuntu1) ...
+Selecting previously unselected package 2to3.
+Preparing to unpack .../01-2to3_3.12.3-0ubuntu2_all.deb ...
+Unpacking 2to3 (3.12.3-0ubuntu2) ...
+Selecting previously unselected package libtcl8.6:amd64.
+Preparing to unpack .../02-libtcl8.6_8.6.14+dfsg-1build1_amd64.deb ...
+Unpacking libtcl8.6:amd64 (8.6.14+dfsg-1build1) ...
+Selecting previously unselected package libxss1:amd64.
+Preparing to unpack .../03-libxss1_1%3a1.2.3-1build3_amd64.deb ...
+Unpacking libxss1:amd64 (1:1.2.3-1build3) ...
+Selecting previously unselected package libtk8.6:amd64.
+Preparing to unpack .../04-libtk8.6_8.6.14-1build1_amd64.deb ...
+Unpacking libtk8.6:amd64 (8.6.14-1build1) ...
+Selecting previously unselected package tk8.6-blt2.5.
+Preparing to unpack .../05-tk8.6-blt2.5_2.5.3+dfsg-7build1_amd64.deb ...
+Unpacking tk8.6-blt2.5 (2.5.3+dfsg-7build1) ...
+Selecting previously unselected package blt.
+Preparing to unpack .../06-blt_2.5.3+dfsg-7build1_amd64.deb ...
+Unpacking blt (2.5.3+dfsg-7build1) ...
+Selecting previously unselected package fonts-mathjax.
+Preparing to unpack .../07-fonts-mathjax_2.7.9+dfsg-1_all.deb ...
+Unpacking fonts-mathjax (2.7.9+dfsg-1) ...
+Selecting previously unselected package python3-tk:amd64.
+Preparing to unpack .../08-python3-tk_3.12.3-0ubuntu1_amd64.deb ...
+Unpacking python3-tk:amd64 (3.12.3-0ubuntu1) ...
+Selecting previously unselected package libjs-mathjax.
+Preparing to unpack .../09-libjs-mathjax_2.7.9+dfsg-1_all.deb ...
+Unpacking libjs-mathjax (2.7.9+dfsg-1) ...
+Selecting previously unselected package idle-python3.12.
+Preparing to unpack .../10-idle-python3.12_3.12.3-1ubuntu0.8_all.deb ...
+Unpacking idle-python3.12 (3.12.3-1ubuntu0.8) ...
+Selecting previously unselected package idle.
+Preparing to unpack .../11-idle_3.12.3-0ubuntu2_all.deb ...
+Unpacking idle (3.12.3-0ubuntu2) ...
+Selecting previously unselected package net-tools.
+Preparing to unpack .../12-net-tools_2.10-0.1ubuntu4.4_amd64.deb ...
+Unpacking net-tools (2.10-0.1ubuntu4.4) ...
+Selecting previously unselected package libpython3.12-testsuite.
+Preparing to unpack .../13-libpython3.12-testsuite_3.12.3-1ubuntu0.8_all.deb ...
+Unpacking libpython3.12-testsuite (3.12.3-1ubuntu0.8) ...
+Selecting previously unselected package python3.12-doc.
+Preparing to unpack .../14-python3.12-doc_3.12.3-1ubuntu0.8_all.deb ...
+Unpacking python3.12-doc (3.12.3-1ubuntu0.8) ...
+Selecting previously unselected package python3-doc.
+Preparing to unpack .../15-python3-doc_3.12.3-0ubuntu2_all.deb ...
+Unpacking python3-doc (3.12.3-0ubuntu2) ...
+Selecting previously unselected package python3.12-examples.
+Preparing to unpack .../16-python3.12-examples_3.12.3-1ubuntu0.8_all.deb ...
+Unpacking python3.12-examples (3.12.3-1ubuntu0.8) ...
+Selecting previously unselected package python3-examples.
+Preparing to unpack .../17-python3-examples_3.12.3-0ubuntu2_all.deb ...
+Unpacking python3-examples (3.12.3-0ubuntu2) ...
+Selecting previously unselected package python3.12-full.
+Preparing to unpack .../18-python3.12-full_3.12.3-1ubuntu0.8_amd64.deb ...
+Unpacking python3.12-full (3.12.3-1ubuntu0.8) ...
+Selecting previously unselected package python3-full.
+Preparing to unpack .../19-python3-full_3.12.3-0ubuntu2_amd64.deb ...
+Unpacking python3-full (3.12.3-0ubuntu2) ...
+Setting up net-tools (2.10-0.1ubuntu4.4) ...
+Setting up fonts-mathjax (2.7.9+dfsg-1) ...
+Setting up libjs-mathjax (2.7.9+dfsg-1) ...
+Setting up python3.12-examples (3.12.3-1ubuntu0.8) ...
+Setting up libtcl8.6:amd64 (8.6.14+dfsg-1build1) ...
+Setting up libxss1:amd64 (1:1.2.3-1build3) ...
+Setting up libpython3.12-testsuite (3.12.3-1ubuntu0.8) ...
+Setting up python3.12-doc (3.12.3-1ubuntu0.8) ...
+Setting up python3-lib2to3 (3.12.3-0ubuntu1) ...
+Setting up python3-doc (3.12.3-0ubuntu2) ...
+Setting up libtk8.6:amd64 (8.6.14-1build1) ...
+Setting up 2to3 (3.12.3-0ubuntu2) ...
+Setting up python3-examples (3.12.3-0ubuntu2) ...
+Setting up tk8.6-blt2.5 (2.5.3+dfsg-7build1) ...
+Setting up blt (2.5.3+dfsg-7build1) ...
+Setting up python3-tk:amd64 (3.12.3-0ubuntu1) ...
+Setting up idle-python3.12 (3.12.3-1ubuntu0.8) ...
+Setting up python3.12-full (3.12.3-1ubuntu0.8) ...
+Setting up idle (3.12.3-0ubuntu2) ...
+Setting up python3-full (3.12.3-0ubuntu2) ...
+Processing triggers for install-info (7.1-3build2) ...
+Processing triggers for fontconfig (2.15.0-1.1ubuntu2) ...
+Processing triggers for libc-bin (2.39-0ubuntu8.6) ...
+Processing triggers for man-db (2.12.0-4build2) ...
+linuxmi@DESKTOP-UQCGKJU:/mnt/c/Users/lenovo/Documents/chess-insights-pipeline/chess-insights$ python3 -m venv .venv
+Error: Command '['/mnt/c/Users/lenovo/Documents/chess-insights-pipeline/chess-insights/.venv/bin/python3', '-m', 'ensurepip', '--upgrade', '--default-pip']' returned non-zero exit status 1.
+linuxmi@DESKTOP-UQCGKJU:/mnt/c/Users/lenovo/Documents/chess-insights-pipeline/chess-insights$ rm -rf .venv
+linuxmi@DESKTOP-UQCGKJU:/mnt/c/Users/lenovo/Documents/chess-insights-pipeline/chess-insights$ sudo apt update
+sudo apt install python3.12-venv python3-pip -y
+Hit:1 http://archive.ubuntu.com/ubuntu noble InRelease
+Get:2 http://security.ubuntu.com/ubuntu noble-security InRelease [126 kB]
+Get:3 http://archive.ubuntu.com/ubuntu noble-updates InRelease [126 kB]
+Get:4 http://security.ubuntu.com/ubuntu noble-security/main amd64 Components [21.5 kB]
+Get:5 http://archive.ubuntu.com/ubuntu noble-backports InRelease [126 kB]
+Get:6 http://security.ubuntu.com/ubuntu noble-security/universe amd64 Components [52.2 kB]
+Get:7 http://security.ubuntu.com/ubuntu noble-security/restricted amd64 Components [208 B]
+Get:8 http://security.ubuntu.com/ubuntu noble-security/multiverse amd64 Components [208 B]
+Get:9 http://archive.ubuntu.com/ubuntu noble-updates/main amd64 Components [175 kB]
+Get:10 http://archive.ubuntu.com/ubuntu noble-updates/universe amd64 Components [378 kB]
+Get:11 http://archive.ubuntu.com/ubuntu noble-updates/restricted amd64 Components [212 B]
+Get:12 http://archive.ubuntu.com/ubuntu noble-updates/multiverse amd64 Components [940 B]
+Get:13 http://archive.ubuntu.com/ubuntu noble-backports/main amd64 Components [7148 B]
+Get:14 http://archive.ubuntu.com/ubuntu noble-backports/universe amd64 Components [11.0 kB]
+Get:15 http://archive.ubuntu.com/ubuntu noble-backports/restricted amd64 Components [212 B]
+Get:16 http://archive.ubuntu.com/ubuntu noble-backports/multiverse amd64 Components [212 B]
+Fetched 1025 kB in 1s (729 kB/s)
+Reading package lists... Done
+Building dependency tree... Done
+Reading state information... Done
+36 packages can be upgraded. Run 'apt list --upgradable' to see them.
+Reading package lists... Done
+Building dependency tree... Done
+Reading state information... Done
+python3.12-venv is already the newest version (3.12.3-1ubuntu0.8).
+python3.12-venv set to manually installed.
+python3-pip is already the newest version (24.0+dfsg-1ubuntu1.3).
+The following packages were automatically installed and are no longer required:
+  libdrm-nouveau2 libdrm-radeon1 libgl1-amber-dri libglapi-mesa libllvm17t64 libxcb-dri2-0
+Use 'sudo apt autoremove' to remove them.
+0 upgraded, 0 newly installed, 0 to remove and 36 not upgraded.
+linuxmi@DESKTOP-UQCGKJU:/mnt/c/Users/lenovo/Documents/chess-insights-pipeline/chess-insights$ sudo apt install python3-venv python3-pip -y
+Reading package lists... Done
+Building dependency tree... Done
+Reading state information... Done
+python3-venv is already the newest version (3.12.3-0ubuntu2).
+python3-pip is already the newest version (24.0+dfsg-1ubuntu1.3).
+The following packages were automatically installed and are no longer required:
+  libdrm-nouveau2 libdrm-radeon1 libgl1-amber-dri libglapi-mesa libllvm17t64 libxcb-dri2-0
+Use 'sudo apt autoremove' to remove them.
+0 upgraded, 0 newly installed, 0 to remove and 36 not upgraded.
+linuxmi@DESKTOP-UQCGKJU:/mnt/c/Users/lenovo/Documents/chess-insights-pipeline/chess-insights$ python3 -m venv .venv
+Error: Command '['/mnt/c/Users/lenovo/Documents/chess-insights-pipeline/chess-insights/.venv/bin/python3', '-m', 'ensurepip', '--upgrade', '--default-pip']' returned non-zero exit status 1.
+linuxmi@DESKTOP-UQCGKJU:/mnt/c/Users/lenovo/Documents/chess-insights-pipeline/chess-insights$ which python3
+/usr/bin/python3
+linuxmi@DESKTOP-UQCGKJU:/mnt/c/Users/lenovo/Documents/chess-insights-pipeline/chess-insights$ /usr/bin/python3 -m ensurepip --version
+pip 24.0
+linuxmi@DESKTOP-UQCGKJU:/mnt/c/Users/lenovo/Documents/chess-insights-pipeline/chess-insights$ cd ~
+mkdir -p venvs
+/usr/bin/python3 -m venv ~/venvs/chess-insights
+linuxmi@DESKTOP-UQCGKJU:~$ source ~/venvs/chess-insights/bin/activate
+(chess-insights) linuxmi@DESKTOP-UQCGKJU:~$ cd /mnt/c/Users/lenovo/Documents/chess-insights-pipeline/chess-insights
+ls
+README.md  chess_pipeline_flow.py  docker-compose.yml  poetry.lock  pyproject.toml  src  tests
+(chess-insights) linuxmi@DESKTOP-UQCGKJU:/mnt/c/Users/lenovo/Documents/chess-insights-pipeline/chess-insights$ pip install --upgrade pip
+pip install metaflow
+Requirement already satisfied: pip in /home/linuxmi/venvs/chess-insights/lib/python3.12/site-packages (24.0)
+Collecting pip
+  Downloading pip-25.3-py3-none-any.whl.metadata (4.7 kB)
+Downloading pip-25.3-py3-none-any.whl (1.8 MB)
+   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 1.8/1.8 MB 6.6 MB/s eta 0:00:00
+Installing collected packages: pip
+  Attempting uninstall: pip
+    Found existing installation: pip 24.0
+    Uninstalling pip-24.0:
+      Successfully uninstalled pip-24.0
+Successfully installed pip-25.3
+Collecting metaflow
+  Downloading metaflow-2.19.7-py2.py3-none-any.whl.metadata (6.7 kB)
+Collecting requests (from metaflow)
+  Downloading requests-2.32.5-py3-none-any.whl.metadata (4.9 kB)
+Collecting boto3 (from metaflow)
+  Downloading boto3-1.40.70-py3-none-any.whl.metadata (6.8 kB)
+Collecting botocore<1.41.0,>=1.40.70 (from boto3->metaflow)
+  Downloading botocore-1.40.70-py3-none-any.whl.metadata (5.7 kB)
+Collecting jmespath<2.0.0,>=0.7.1 (from boto3->metaflow)
+  Downloading jmespath-1.0.1-py3-none-any.whl.metadata (7.6 kB)
+Collecting s3transfer<0.15.0,>=0.14.0 (from boto3->metaflow)
+  Downloading s3transfer-0.14.0-py3-none-any.whl.metadata (1.7 kB)
+Collecting python-dateutil<3.0.0,>=2.1 (from botocore<1.41.0,>=1.40.70->boto3->metaflow)
+  Downloading python_dateutil-2.9.0.post0-py2.py3-none-any.whl.metadata (8.4 kB)
+Collecting urllib3!=2.2.0,<3,>=1.25.4 (from botocore<1.41.0,>=1.40.70->boto3->metaflow)
+  Downloading urllib3-2.5.0-py3-none-any.whl.metadata (6.5 kB)
+Collecting six>=1.5 (from python-dateutil<3.0.0,>=2.1->botocore<1.41.0,>=1.40.70->boto3->metaflow)
+  Downloading six-1.17.0-py2.py3-none-any.whl.metadata (1.7 kB)
+Collecting charset_normalizer<4,>=2 (from requests->metaflow)
+  Downloading charset_normalizer-3.4.4-cp312-cp312-manylinux2014_x86_64.manylinux_2_17_x86_64.manylinux_2_28_x86_64.whl.metadata (37 kB)
+Collecting idna<4,>=2.5 (from requests->metaflow)
+  Downloading idna-3.11-py3-none-any.whl.metadata (8.4 kB)
+Collecting certifi>=2017.4.17 (from requests->metaflow)
+  Downloading certifi-2025.10.5-py3-none-any.whl.metadata (2.5 kB)
+Downloading metaflow-2.19.7-py2.py3-none-any.whl (1.7 MB)
+   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 1.7/1.7 MB 4.1 MB/s  0:00:00
+Downloading boto3-1.40.70-py3-none-any.whl (139 kB)
+Downloading botocore-1.40.70-py3-none-any.whl (14.1 MB)
+   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 14.1/14.1 MB 3.6 MB/s  0:00:03
+Downloading jmespath-1.0.1-py3-none-any.whl (20 kB)
+Downloading python_dateutil-2.9.0.post0-py2.py3-none-any.whl (229 kB)
+Downloading s3transfer-0.14.0-py3-none-any.whl (85 kB)
+Downloading urllib3-2.5.0-py3-none-any.whl (129 kB)
+Downloading six-1.17.0-py2.py3-none-any.whl (11 kB)
+Downloading requests-2.32.5-py3-none-any.whl (64 kB)
+Downloading charset_normalizer-3.4.4-cp312-cp312-manylinux2014_x86_64.manylinux_2_17_x86_64.manylinux_2_28_x86_64.whl (153 kB)
+Downloading idna-3.11-py3-none-any.whl (71 kB)
+Downloading certifi-2025.10.5-py3-none-any.whl (163 kB)
+Installing collected packages: urllib3, six, jmespath, idna, charset_normalizer, certifi, requests, python-dateutil, botocore, s3transfer, boto3, metaflow
+Successfully installed boto3-1.40.70 botocore-1.40.70 certifi-2025.10.5 charset_normalizer-3.4.4 idna-3.11 jmespath-1.0.1 metaflow-2.19.7 python-dateutil-2.9.0.post0 requests-2.32.5 s3transfer-0.14.0 six-1.17.0 urllib3-2.5.0
+(chess-insights) linuxmi@DESKTOP-UQCGKJU:/mnt/c/Users/lenovo/Documents/chess-insights-pipeline/chess-insights$ python chess_pipeline_flow.py run
+Traceback (most recent call last):
+  File "/mnt/c/Users/lenovo/Documents/chess-insights-pipeline/chess-insights/chess_pipeline_flow.py", line 28, in <module>
+    Flow('ChessPipelineFlow').run()
+    ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/linuxmi/venvs/chess-insights/lib/python3.12/site-packages/metaflow/client/core.py", line 2509, in __init__
+    super(Flow, self).__init__(*args, **kwargs)
+  File "/home/linuxmi/venvs/chess-insights/lib/python3.12/site-packages/metaflow/client/core.py", line 341, in __init__
+    self._object = self._get_object(*ids)
+                   ^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/linuxmi/venvs/chess-insights/lib/python3.12/site-packages/metaflow/client/core.py", line 373, in _get_object
+    raise MetaflowNotFound("%s does not exist" % self)
+metaflow.exception.MetaflowNotFound: Flow('ChessPipelineFlow') does not exist
+(chess-insights) linuxmi@DESKTOP-UQCGKJU:/mnt/c/Users/lenovo/Documents/chess-insights-pipeline/chess-insights$ cd src
+(chess-insights) linuxmi@DESKTOP-UQCGKJU:/mnt/c/Users/lenovo/Documents/chess-insights-pipeline/chess-insights/src$ cd chess-insights
+-bash: cd: chess-insights: No such file or directory
+(chess-insights) linuxmi@DESKTOP-UQCGKJU:/mnt/c/Users/lenovo/Documents/chess-insights-pipeline/chess-insights/src$ ls
+chess_insights  data
+(chess-insights) linuxmi@DESKTOP-UQCGKJU:/mnt/c/Users/lenovo/Documents/chess-insights-pipeline/chess-insights/src$ cd ..
+(chess-insights) linuxmi@DESKTOP-UQCGKJU:/mnt/c/Users/lenovo/Documents/chess-insights-pipeline/chess-insights$ ls
+README.md  chess_pipeline_flow.py  docker-compose.yml  poetry.lock  pyproject.toml  src  tests
+(chess-insights) linuxmi@DESKTOP-UQCGKJU:/mnt/c/Users/lenovo/Documents/chess-insights-pipeline/chess-insights$ python chess_pipeline_flow.py run
+Traceback (most recent call last):
+  File "/mnt/c/Users/lenovo/Documents/chess-insights-pipeline/chess-insights/chess_pipeline_flow.py", line 28, in <module>
+    Flow('ChessPipelineFlow').run()
+    ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/linuxmi/venvs/chess-insights/lib/python3.12/site-packages/metaflow/client/core.py", line 2509, in __init__
+    super(Flow, self).__init__(*args, **kwargs)
+  File "/home/linuxmi/venvs/chess-insights/lib/python3.12/site-packages/metaflow/client/core.py", line 341, in __init__
+    self._object = self._get_object(*ids)
+                   ^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/linuxmi/venvs/chess-insights/lib/python3.12/site-packages/metaflow/client/core.py", line 373, in _get_object
+    raise MetaflowNotFound("%s does not exist" % self)
+metaflow.exception.MetaflowNotFound: Flow('ChessPipelineFlow') does not exist
+(chess-insights) linuxmi@DESKTOP-UQCGKJU:/mnt/c/Users/lenovo/Documents/chess-insights-pipeline/chess-insights$ python chess_pipeline_flow.py run
+Metaflow 2.19.7 executing ChessPipelineFlow for user:linuxmi
+Creating local datastore in current directory (/mnt/c/Users/lenovo/Documents/chess-insights-pipeline/chess-insights/.metaflow)
+Validating your flow...
+    The graph looks good!
+Running pylint...
+    Pylint not found, so extra checks are disabled.
+2025-11-11 16:55:42.792 Workflow starting (run-id 1762876542745878):
+2025-11-11 16:55:43.299 [1762876542745878/start/1 (pid 4028)] Task is starting.
+2025-11-11 16:55:43.896 [1762876542745878/start/1 (pid 4028)] Startujem pipeline – učitavam podatke...
+2025-11-11 16:55:44.359 [1762876542745878/start/1 (pid 4028)] Task finished successfully.
+2025-11-11 16:55:44.637 [1762876542745878/train_model/2 (pid 4031)] Task is starting.
+2025-11-11 16:55:45.101 [1762876542745878/train_model/2 (pid 4031)] Treniram model...
+2025-11-11 16:55:45.613 [1762876542745878/train_model/2 (pid 4031)] Task finished successfully.
+2025-11-11 16:55:45.861 [1762876542745878/evaluate/3 (pid 4034)] Task is starting.
+2025-11-11 16:55:46.385 [1762876542745878/evaluate/3 (pid 4034)] Evaluiram model: 3.0
+2025-11-11 16:55:46.888 [1762876542745878/evaluate/3 (pid 4034)] Task finished successfully.
+2025-11-11 16:55:47.179 [1762876542745878/end/4 (pid 4037)] Task is starting.
+2025-11-11 16:55:47.735 [1762876542745878/end/4 (pid 4037)] Pipeline gotov!
+2025-11-11 16:55:48.205 [1762876542745878/end/4 (pid 4037)] Task finished successfully.
+2025-11-11 16:55:48.272 Done!
+(chess-insights) linuxmi@DESKTOP-UQCGKJU:/mnt/c/Users/lenovo/Documents/chess-insights-pipeline/chess-insights$ python chess_pipeline_flow.py run
+Traceback (most recent call last):
+  File "/mnt/c/Users/lenovo/Documents/chess-insights-pipeline/chess-insights/chess_pipeline_flow.py", line 4, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+(chess-insights) linuxmi@DESKTOP-UQCGKJU:/mnt/c/Users/lenovo/Documents/chess-insights-pipeline/chess-insights$ python chess_pipeline_flow.py run
+Traceback (most recent call last):
+  File "/mnt/c/Users/lenovo/Documents/chess-insights-pipeline/chess-insights/chess_pipeline_flow.py", line 4, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+(chess-insights) linuxmi@DESKTOP-UQCGKJU:/mnt/c/Users/lenovo/Documents/chess-insights-pipeline/chess-insights$ pip install pandas
+Collecting pandas
+  Downloading pandas-2.3.3-cp312-cp312-manylinux_2_24_x86_64.manylinux_2_28_x86_64.whl.metadata (91 kB)
+Collecting numpy>=1.26.0 (from pandas)
+  Downloading numpy-2.3.4-cp312-cp312-manylinux_2_27_x86_64.manylinux_2_28_x86_64.whl.metadata (62 kB)
+Requirement already satisfied: python-dateutil>=2.8.2 in /home/linuxmi/venvs/chess-insights/lib/python3.12/site-packages (from pandas) (2.9.0.post0)
+Collecting pytz>=2020.1 (from pandas)
+  Downloading pytz-2025.2-py2.py3-none-any.whl.metadata (22 kB)
+Collecting tzdata>=2022.7 (from pandas)
+  Downloading tzdata-2025.2-py2.py3-none-any.whl.metadata (1.4 kB)
+Requirement already satisfied: six>=1.5 in /home/linuxmi/venvs/chess-insights/lib/python3.12/site-packages (from python-dateutil>=2.8.2->pandas) (1.17.0)
+Downloading pandas-2.3.3-cp312-cp312-manylinux_2_24_x86_64.manylinux_2_28_x86_64.whl (12.4 MB)
+   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 12.4/12.4 MB 3.7 MB/s  0:00:03
+Downloading numpy-2.3.4-cp312-cp312-manylinux_2_27_x86_64.manylinux_2_28_x86_64.whl (16.6 MB)
+   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 16.6/16.6 MB 3.6 MB/s  0:00:04
+Downloading pytz-2025.2-py2.py3-none-any.whl (509 kB)
+Downloading tzdata-2025.2-py2.py3-none-any.whl (347 kB)
+Installing collected packages: pytz, tzdata, numpy, pandas
+Successfully installed numpy-2.3.4 pandas-2.3.3 pytz-2025.2 tzdata-2025.2
+(chess-insights) linuxmi@DESKTOP-UQCGKJU:/mnt/c/Users/lenovo/Documents/chess-insights-pipeline/chess-insights$ pip install pandas
+Requirement already satisfied: pandas in /home/linuxmi/venvs/chess-insights/lib/python3.12/site-packages (2.3.3)
+Requirement already satisfied: numpy>=1.26.0 in /home/linuxmi/venvs/chess-insights/lib/python3.12/site-packages (from pandas) (2.3.4)
+Requirement already satisfied: python-dateutil>=2.8.2 in /home/linuxmi/venvs/chess-insights/lib/python3.12/site-packages (from pandas) (2.9.0.post0)
+Requirement already satisfied: pytz>=2020.1 in /home/linuxmi/venvs/chess-insights/lib/python3.12/site-packages (from pandas) (2025.2)
+Requirement already satisfied: tzdata>=2022.7 in /home/linuxmi/venvs/chess-insights/lib/python3.12/site-packages (from pandas) (2025.2)
+Requirement already satisfied: six>=1.5 in /home/linuxmi/venvs/chess-insights/lib/python3.12/site-packages (from python-dateutil>=2.8.2->pandas) (1.17.0)
+(chess-insights) linuxmi@DESKTOP-UQCGKJU:/mnt/c/Users/lenovo/Documents/chess-insights-pipeline/chess-insights$ python chess_pipeline_flow.py run
+Metaflow 2.19.7 executing ChessInsightsFlow for user:linuxmi
+Validating your flow...
+    The graph looks good!
+Running pylint...
+    Pylint not found, so extra checks are disabled.
+2025-11-11 17:12:31.550 Workflow starting (run-id 1762877551505325):
+2025-11-11 17:12:32.240 [1762877551505325/start/1 (pid 4180)] Task is starting.
+2025-11-11 17:12:33.101 [1762877551505325/start/1 (pid 4180)] 🔹 Starting ChessInsightsFlow...
+2025-11-11 17:12:33.117 [1762877551505325/start/1 (pid 4180)] <flow ChessInsightsFlow step start> failed:
+2025-11-11 17:12:33.536 [1762877551505325/start/1 (pid 4180)] Internal error
+2025-11-11 17:12:33.542 [1762877551505325/start/1 (pid 4180)] Traceback (most recent call last):
+2025-11-11 17:12:33.542 [1762877551505325/start/1 (pid 4180)] File "/home/linuxmi/venvs/chess-insights/lib/python3.12/site-packages/metaflow/cli.py", line 723, in main
+2025-11-11 17:12:33.542 [1762877551505325/start/1 (pid 4180)] start(auto_envvar_prefix="METAFLOW", obj=state)
+2025-11-11 17:12:33.543 [1762877551505325/start/1 (pid 4180)] File "/home/linuxmi/venvs/chess-insights/lib/python3.12/site-packages/metaflow/_vendor/click/core.py", line 829, in __call__
+2025-11-11 17:12:33.543 [1762877551505325/start/1 (pid 4180)] return self.main(args, kwargs)
+2025-11-11 17:12:33.543 [1762877551505325/start/1 (pid 4180)] ^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025-11-11 17:12:33.543 [1762877551505325/start/1 (pid 4180)] File "/home/linuxmi/venvs/chess-insights/lib/python3.12/site-packages/metaflow/_vendor/click/core.py", line 782, in main
+2025-11-11 17:12:33.543 [1762877551505325/start/1 (pid 4180)] rv = self.invoke(ctx)
+2025-11-11 17:12:33.544 [1762877551505325/start/1 (pid 4180)] ^^^^^^^^^^^^^^^^
+2025-11-11 17:12:33.544 [1762877551505325/start/1 (pid 4180)] File "/home/linuxmi/venvs/chess-insights/lib/python3.12/site-packages/metaflow/cli_components/utils.py", line 69, in invoke
+2025-11-11 17:12:33.544 [1762877551505325/start/1 (pid 4180)] return _process_result(sub_ctx.command.invoke(sub_ctx))
+2025-11-11 17:12:33.545 [1762877551505325/start/1 (pid 4180)] ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025-11-11 17:12:33.545 [1762877551505325/start/1 (pid 4180)] File "/home/linuxmi/venvs/chess-insights/lib/python3.12/site-packages/metaflow/_vendor/click/core.py", line 1066, in invoke
+2025-11-11 17:12:33.545 [1762877551505325/start/1 (pid 4180)] return ctx.invoke(self.callback, ctx.params)
+2025-11-11 17:12:33.666 [1762877551505325/start/1 (pid 4180)] ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025-11-11 17:12:33.666 [1762877551505325/start/1 (pid 4180)] File "/home/linuxmi/venvs/chess-insights/lib/python3.12/site-packages/metaflow/_vendor/click/core.py", line 610, in invoke
+2025-11-11 17:12:33.666 [1762877551505325/start/1 (pid 4180)] return callback(args, kwargs)
+2025-11-11 17:12:33.667 [1762877551505325/start/1 (pid 4180)] ^^^^^^^^^^^^^^^^^^^^^^^^^
+2025-11-11 17:12:33.667 [1762877551505325/start/1 (pid 4180)] File "/home/linuxmi/venvs/chess-insights/lib/python3.12/site-packages/metaflow/tracing/__init__.py", line 27, in wrapper_func
+2025-11-11 17:12:33.667 [1762877551505325/start/1 (pid 4180)] return func(args, kwargs)
+2025-11-11 17:12:33.667 [1762877551505325/start/1 (pid 4180)] ^^^^^^^^^^^^^^^^^^^^^
+2025-11-11 17:12:33.668 [1762877551505325/start/1 (pid 4180)] File "/home/linuxmi/venvs/chess-insights/lib/python3.12/site-packages/metaflow/_vendor/click/decorators.py", line 21, in new_func
+2025-11-11 17:12:33.668 [1762877551505325/start/1 (pid 4180)] return f(get_current_context(), args, kwargs)
+2025-11-11 17:12:33.668 [1762877551505325/start/1 (pid 4180)] ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025-11-11 17:12:33.668 [1762877551505325/start/1 (pid 4180)] File "/home/linuxmi/venvs/chess-insights/lib/python3.12/site-packages/metaflow/cli_components/step_cmd.py", line 171, in step
+2025-11-11 17:12:33.668 [1762877551505325/start/1 (pid 4180)] task.run_step(
+2025-11-11 17:12:33.668 [1762877551505325/start/1 (pid 4180)] File "/home/linuxmi/venvs/chess-insights/lib/python3.12/site-packages/metaflow/task.py", line 899, in run_step
+2025-11-11 17:12:33.669 [1762877551505325/start/1 (pid 4180)] self._exec_step_function(step_func, orig_step_func)
+2025-11-11 17:12:33.669 [1762877551505325/start/1 (pid 4180)] File "/home/linuxmi/venvs/chess-insights/lib/python3.12/site-packages/metaflow/task.py", line 147, in _exec_step_function
+2025-11-11 17:12:33.669 [1762877551505325/start/1 (pid 4180)] raise raised_exception
+2025-11-11 17:12:33.669 [1762877551505325/start/1 (pid 4180)] File "/home/linuxmi/venvs/chess-insights/lib/python3.12/site-packages/metaflow/task.py", line 113, in _exec_step_function
+2025-11-11 17:12:33.669 [1762877551505325/start/1 (pid 4180)] step_function()
+2025-11-11 17:12:33.669 [1762877551505325/start/1 (pid 4180)] File "/mnt/c/Users/lenovo/Documents/chess-insights-pipeline/chess-insights/chess_pipeline_flow.py", line 56, in start
+2025-11-11 17:12:33.670 [1762877551505325/start/1 (pid 4180)] self.raw_pgn_dir = Path(self.raw_pgn_dir)
+2025-11-11 17:12:33.670 [1762877551505325/start/1 (pid 4180)] ^^^^^^^^^^^^^^^^
+2025-11-11 17:12:33.670 [1762877551505325/start/1 (pid 4180)] File "/home/linuxmi/venvs/chess-insights/lib/python3.12/site-packages/metaflow/task.py", line 189, in _set_cls_var
+2025-11-11 17:12:33.670 [1762877551505325/start/1 (pid 4180)] raise AttributeError(
+2025-11-11 17:12:33.670 [1762877551505325/start/1 (pid 4180)] AttributeError: Flow level attributes and Parameters are not modifiable
+2025-11-11 17:12:33.671 [1762877551505325/start/1 (pid 4180)]
+2025-11-11 17:12:33.679 [1762877551505325/start/1 (pid 4180)] Task failed.
+2025-11-11 17:12:33.698 Workflow failed.
+2025-11-11 17:12:33.698 Terminating 0 active tasks...
+2025-11-11 17:12:33.698 Flushing logs...
+    Step failure:
+    Step start (task-id 1) failed.
+
+(chess-insights) linuxmi@DESKTOP-UQCGKJU:/mnt/c/Users/lenovo/Documents/chess-insights-pipeline/chess-insights$ ^C
+(chess-insights) linuxmi@DESKTOP-UQCGKJU:/mnt/c/Users/lenovo/Documents/chess-insights-pipeline/chess-insights$ python chess_pipeline_flow.py run
+Metaflow 2.19.7 executing ChessInsightsFlow for user:linuxmi
+Validating your flow...
+    The graph looks good!
+Running pylint...
+    Pylint not found, so extra checks are disabled.
+2025-11-11 17:20:38.271 Workflow starting (run-id 1762878038214790):
+2025-11-11 17:20:38.806 [1762878038214790/start/1 (pid 4246)] Task is starting.
+2025-11-11 17:20:39.644 [1762878038214790/start/1 (pid 4246)] 🔹 Starting ChessInsightsFlow...
+2025-11-11 17:20:39.683 [1762878038214790/start/1 (pid 4246)] PGN directory: src/chess_insights/data
+2025-11-11 17:20:40.313 [1762878038214790/start/1 (pid 4246)] Processed directory: src/chess_insights/data/processed
+2025-11-11 17:20:40.313 [1762878038214790/start/1 (pid 4246)] Model output directory: src/chess_insights/models
+2025-11-11 17:20:40.350 [1762878038214790/start/1 (pid 4246)] Task finished successfully.
+2025-11-11 17:20:40.609 [1762878038214790/load_games/2 (pid 4256)] Task is starting.
+2025-11-11 17:20:41.578 [1762878038214790/load_games/2 (pid 4256)] 🔹 Loading PGN games...
+2025-11-11 17:20:41.607 [1762878038214790/load_games/2 (pid 4256)] 🔹 Loaded 0 games
+2025-11-11 17:20:41.627 [1762878038214790/load_games/2 (pid 4256)] ✅ Saved raw data to src/chess_insights/data/processed/games_raw.csv
+2025-11-11 17:20:42.400 [1762878038214790/load_games/2 (pid 4256)] Task finished successfully.
+2025-11-11 17:20:42.682 [1762878038214790/extract_features/3 (pid 4266)] Task is starting.
+2025-11-11 17:20:43.648 [1762878038214790/extract_features/3 (pid 4266)] 🔹 Extracting features...
+2025-11-11 17:20:43.667 [1762878038214790/extract_features/3 (pid 4266)] <flow ChessInsightsFlow step extract_features> failed:
+2025-11-11 17:20:44.270 [1762878038214790/extract_features/3 (pid 4266)] Internal error
+2025-11-11 17:20:44.272 [1762878038214790/extract_features/3 (pid 4266)] Traceback (most recent call last):
+2025-11-11 17:20:44.273 [1762878038214790/extract_features/3 (pid 4266)] File "/home/linuxmi/venvs/chess-insights/lib/python3.12/site-packages/metaflow/cli.py", line 723, in main
+2025-11-11 17:20:44.273 [1762878038214790/extract_features/3 (pid 4266)] start(auto_envvar_prefix="METAFLOW", obj=state)
+2025-11-11 17:20:44.274 [1762878038214790/extract_features/3 (pid 4266)] File "/home/linuxmi/venvs/chess-insights/lib/python3.12/site-packages/metaflow/_vendor/click/core.py", line 829, in __call__
+2025-11-11 17:20:44.274 [1762878038214790/extract_features/3 (pid 4266)] return self.main(args, kwargs)
+2025-11-11 17:20:44.274 [1762878038214790/extract_features/3 (pid 4266)] ^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025-11-11 17:20:44.274 [1762878038214790/extract_features/3 (pid 4266)] File "/home/linuxmi/venvs/chess-insights/lib/python3.12/site-packages/metaflow/_vendor/click/core.py", line 782, in main
+2025-11-11 17:20:44.275 [1762878038214790/extract_features/3 (pid 4266)] rv = self.invoke(ctx)
+2025-11-11 17:20:44.275 [1762878038214790/extract_features/3 (pid 4266)] ^^^^^^^^^^^^^^^^
+2025-11-11 17:20:44.275 [1762878038214790/extract_features/3 (pid 4266)] File "/home/linuxmi/venvs/chess-insights/lib/python3.12/site-packages/metaflow/cli_components/utils.py", line 69, in invoke
+2025-11-11 17:20:44.275 [1762878038214790/extract_features/3 (pid 4266)] return _process_result(sub_ctx.command.invoke(sub_ctx))
+2025-11-11 17:20:44.276 [1762878038214790/extract_features/3 (pid 4266)] ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025-11-11 17:20:44.276 [1762878038214790/extract_features/3 (pid 4266)] File "/home/linuxmi/venvs/chess-insights/lib/python3.12/site-packages/metaflow/_vendor/click/core.py", line 1066, in invoke
+2025-11-11 17:20:44.276 [1762878038214790/extract_features/3 (pid 4266)] return ctx.invoke(self.callback, ctx.params)
+2025-11-11 17:20:44.276 [1762878038214790/extract_features/3 (pid 4266)] ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025-11-11 17:20:44.276 [1762878038214790/extract_features/3 (pid 4266)] File "/home/linuxmi/venvs/chess-insights/lib/python3.12/site-packages/metaflow/_vendor/click/core.py", line 610, in invoke
+2025-11-11 17:20:44.277 [1762878038214790/extract_features/3 (pid 4266)] return callback(args, kwargs)
+2025-11-11 17:20:44.390 [1762878038214790/extract_features/3 (pid 4266)] ^^^^^^^^^^^^^^^^^^^^^^^^^
+2025-11-11 17:20:44.390 [1762878038214790/extract_features/3 (pid 4266)] File "/home/linuxmi/venvs/chess-insights/lib/python3.12/site-packages/metaflow/tracing/__init__.py", line 27, in wrapper_func
+2025-11-11 17:20:44.390 [1762878038214790/extract_features/3 (pid 4266)] return func(args, kwargs)
+2025-11-11 17:20:44.390 [1762878038214790/extract_features/3 (pid 4266)] ^^^^^^^^^^^^^^^^^^^^^
+2025-11-11 17:20:44.391 [1762878038214790/extract_features/3 (pid 4266)] File "/home/linuxmi/venvs/chess-insights/lib/python3.12/site-packages/metaflow/_vendor/click/decorators.py", line 21, in new_func
+2025-11-11 17:20:44.391 [1762878038214790/extract_features/3 (pid 4266)] return f(get_current_context(), args, kwargs)
+2025-11-11 17:20:44.391 [1762878038214790/extract_features/3 (pid 4266)] ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025-11-11 17:20:44.391 [1762878038214790/extract_features/3 (pid 4266)] File "/home/linuxmi/venvs/chess-insights/lib/python3.12/site-packages/metaflow/cli_components/step_cmd.py", line 171, in step
+2025-11-11 17:20:44.391 [1762878038214790/extract_features/3 (pid 4266)] task.run_step(
+2025-11-11 17:20:44.391 [1762878038214790/extract_features/3 (pid 4266)] File "/home/linuxmi/venvs/chess-insights/lib/python3.12/site-packages/metaflow/task.py", line 899, in run_step
+2025-11-11 17:20:44.391 [1762878038214790/extract_features/3 (pid 4266)] self._exec_step_function(step_func, orig_step_func)
+2025-11-11 17:20:44.391 [1762878038214790/extract_features/3 (pid 4266)] File "/home/linuxmi/venvs/chess-insights/lib/python3.12/site-packages/metaflow/task.py", line 147, in _exec_step_function
+2025-11-11 17:20:44.392 [1762878038214790/extract_features/3 (pid 4266)] raise raised_exception
+2025-11-11 17:20:44.392 [1762878038214790/extract_features/3 (pid 4266)] File "/home/linuxmi/venvs/chess-insights/lib/python3.12/site-packages/metaflow/task.py", line 113, in _exec_step_function
+2025-11-11 17:20:44.392 [1762878038214790/extract_features/3 (pid 4266)] step_function()
+2025-11-11 17:20:44.392 [1762878038214790/extract_features/3 (pid 4266)] File "/mnt/c/Users/lenovo/Documents/chess-insights-pipeline/chess-insights/chess_pipeline_flow.py", line 112, in extract_features
+2025-11-11 17:20:44.392 [1762878038214790/extract_features/3 (pid 4266)] df["num_moves"] = df["moves"].apply(lambda s: len(str(s).split()))
+2025-11-11 17:20:44.392 [1762878038214790/extract_features/3 (pid 4266)] ~~^^^^^^^^^
+2025-11-11 17:20:44.393 [1762878038214790/extract_features/3 (pid 4266)] File "/home/linuxmi/venvs/chess-insights/lib/python3.12/site-packages/pandas/core/frame.py", line 4113, in __getitem__
+2025-11-11 17:20:44.393 [1762878038214790/extract_features/3 (pid 4266)] indexer = self.columns.get_loc(key)
+2025-11-11 17:20:44.393 [1762878038214790/extract_features/3 (pid 4266)] ^^^^^^^^^^^^^^^^^^^^^^^^^
+2025-11-11 17:20:44.393 [1762878038214790/extract_features/3 (pid 4266)] File "/home/linuxmi/venvs/chess-insights/lib/python3.12/site-packages/pandas/core/indexes/range.py", line 417, in get_loc
+2025-11-11 17:20:44.393 [1762878038214790/extract_features/3 (pid 4266)] raise KeyError(key)
+2025-11-11 17:20:44.393 [1762878038214790/extract_features/3 (pid 4266)] KeyError: 'moves'
+2025-11-11 17:20:44.394 [1762878038214790/extract_features/3 (pid 4266)]
+2025-11-11 17:20:44.404 [1762878038214790/extract_features/3 (pid 4266)] Task failed.
+2025-11-11 17:20:44.422 Workflow failed.
+2025-11-11 17:20:44.422 Terminating 0 active tasks...
+2025-11-11 17:20:44.422 Flushing logs...
+    Step failure:
+    Step extract_features (task-id 3) failed.
+
+(chess-insights) linuxmi@DESKTOP-UQCGKJU:/mnt/c/Users/lenovo/Documents/chess-insights-pipeline/chess-insights$ ^C
+(chess-insights) linuxmi@DESKTOP-UQCGKJU:/mnt/c/Users/lenovo/Documents/chess-insights-pipeline/chess-insights$ python chess_pipeline_flow.py run
+Metaflow 2.19.7 executing ChessInsightsFlow for user:linuxmi
+Validating your flow...
+    The graph looks good!
+Running pylint...
+    Pylint not found, so extra checks are disabled.
+2025-11-11 17:22:22.330 Workflow starting (run-id 1762878142288203):
+2025-11-11 17:22:22.916 [1762878142288203/start/1 (pid 4295)] Task is starting.
+2025-11-11 17:22:23.761 [1762878142288203/start/1 (pid 4295)] 🔹 Starting ChessInsightsFlow...
+2025-11-11 17:22:23.800 [1762878142288203/start/1 (pid 4295)] PGN directory: chess_insights/data
+2025-11-11 17:22:24.370 [1762878142288203/start/1 (pid 4295)] Processed directory: chess_insights/data/processed
+2025-11-11 17:22:24.371 [1762878142288203/start/1 (pid 4295)] Model output directory: chess_insights/models
+2025-11-11 17:22:24.409 [1762878142288203/start/1 (pid 4295)] Task finished successfully.
+2025-11-11 17:22:24.661 [1762878142288203/load_games/2 (pid 4305)] Task is starting.
+2025-11-11 17:22:25.505 [1762878142288203/load_games/2 (pid 4305)] 🔹 Loading PGN games...
+2025-11-11 17:22:25.532 [1762878142288203/load_games/2 (pid 4305)] 🔹 Loaded 0 games
+2025-11-11 17:22:25.553 [1762878142288203/load_games/2 (pid 4305)] ✅ Saved raw data to chess_insights/data/processed/games_raw.csv
+2025-11-11 17:22:26.217 [1762878142288203/load_games/2 (pid 4305)] Task finished successfully.
+2025-11-11 17:22:26.512 [1762878142288203/extract_features/3 (pid 4315)] Task is starting.
+2025-11-11 17:22:27.356 [1762878142288203/extract_features/3 (pid 4315)] 🔹 Extracting features...
+2025-11-11 17:22:27.373 [1762878142288203/extract_features/3 (pid 4315)] <flow ChessInsightsFlow step extract_features> failed:
+2025-11-11 17:22:27.803 [1762878142288203/extract_features/3 (pid 4315)] Internal error
+2025-11-11 17:22:27.806 [1762878142288203/extract_features/3 (pid 4315)] Traceback (most recent call last):
+2025-11-11 17:22:27.806 [1762878142288203/extract_features/3 (pid 4315)] File "/home/linuxmi/venvs/chess-insights/lib/python3.12/site-packages/metaflow/cli.py", line 723, in main
+2025-11-11 17:22:27.807 [1762878142288203/extract_features/3 (pid 4315)] start(auto_envvar_prefix="METAFLOW", obj=state)
+2025-11-11 17:22:27.807 [1762878142288203/extract_features/3 (pid 4315)] File "/home/linuxmi/venvs/chess-insights/lib/python3.12/site-packages/metaflow/_vendor/click/core.py", line 829, in __call__
+2025-11-11 17:22:27.807 [1762878142288203/extract_features/3 (pid 4315)] return self.main(args, kwargs)
+2025-11-11 17:22:27.807 [1762878142288203/extract_features/3 (pid 4315)] ^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025-11-11 17:22:27.808 [1762878142288203/extract_features/3 (pid 4315)] File "/home/linuxmi/venvs/chess-insights/lib/python3.12/site-packages/metaflow/_vendor/click/core.py", line 782, in main
+2025-11-11 17:22:27.808 [1762878142288203/extract_features/3 (pid 4315)] rv = self.invoke(ctx)
+2025-11-11 17:22:27.808 [1762878142288203/extract_features/3 (pid 4315)] ^^^^^^^^^^^^^^^^
+2025-11-11 17:22:27.808 [1762878142288203/extract_features/3 (pid 4315)] File "/home/linuxmi/venvs/chess-insights/lib/python3.12/site-packages/metaflow/cli_components/utils.py", line 69, in invoke
+2025-11-11 17:22:27.809 [1762878142288203/extract_features/3 (pid 4315)] return _process_result(sub_ctx.command.invoke(sub_ctx))
+2025-11-11 17:22:27.809 [1762878142288203/extract_features/3 (pid 4315)] ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025-11-11 17:22:27.809 [1762878142288203/extract_features/3 (pid 4315)] File "/home/linuxmi/venvs/chess-insights/lib/python3.12/site-packages/metaflow/_vendor/click/core.py", line 1066, in invoke
+2025-11-11 17:22:27.809 [1762878142288203/extract_features/3 (pid 4315)] return ctx.invoke(self.callback, ctx.params)
+2025-11-11 17:22:27.810 [1762878142288203/extract_features/3 (pid 4315)] ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025-11-11 17:22:27.810 [1762878142288203/extract_features/3 (pid 4315)] File "/home/linuxmi/venvs/chess-insights/lib/python3.12/site-packages/metaflow/_vendor/click/core.py", line 610, in invoke
+2025-11-11 17:22:27.810 [1762878142288203/extract_features/3 (pid 4315)] return callback(args, kwargs)
+2025-11-11 17:22:27.810 [1762878142288203/extract_features/3 (pid 4315)] ^^^^^^^^^^^^^^^^^^^^^^^^^
+2025-11-11 17:22:27.810 [1762878142288203/extract_features/3 (pid 4315)] File "/home/linuxmi/venvs/chess-insights/lib/python3.12/site-packages/metaflow/tracing/__init__.py", line 27, in wrapper_func
+2025-11-11 17:22:27.811 [1762878142288203/extract_features/3 (pid 4315)] return func(args, kwargs)
+2025-11-11 17:22:27.928 [1762878142288203/extract_features/3 (pid 4315)] ^^^^^^^^^^^^^^^^^^^^^
+2025-11-11 17:22:27.928 [1762878142288203/extract_features/3 (pid 4315)] File "/home/linuxmi/venvs/chess-insights/lib/python3.12/site-packages/metaflow/_vendor/click/decorators.py", line 21, in new_func
+2025-11-11 17:22:27.929 [1762878142288203/extract_features/3 (pid 4315)] return f(get_current_context(), args, kwargs)
+2025-11-11 17:22:27.929 [1762878142288203/extract_features/3 (pid 4315)] ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025-11-11 17:22:27.929 [1762878142288203/extract_features/3 (pid 4315)] File "/home/linuxmi/venvs/chess-insights/lib/python3.12/site-packages/metaflow/cli_components/step_cmd.py", line 171, in step
+2025-11-11 17:22:27.929 [1762878142288203/extract_features/3 (pid 4315)] task.run_step(
+2025-11-11 17:22:27.929 [1762878142288203/extract_features/3 (pid 4315)] File "/home/linuxmi/venvs/chess-insights/lib/python3.12/site-packages/metaflow/task.py", line 899, in run_step
+2025-11-11 17:22:27.929 [1762878142288203/extract_features/3 (pid 4315)] self._exec_step_function(step_func, orig_step_func)
+2025-11-11 17:22:27.929 [1762878142288203/extract_features/3 (pid 4315)] File "/home/linuxmi/venvs/chess-insights/lib/python3.12/site-packages/metaflow/task.py", line 147, in _exec_step_function
+2025-11-11 17:22:27.930 [1762878142288203/extract_features/3 (pid 4315)] raise raised_exception
+2025-11-11 17:22:27.930 [1762878142288203/extract_features/3 (pid 4315)] File "/home/linuxmi/venvs/chess-insights/lib/python3.12/site-packages/metaflow/task.py", line 113, in _exec_step_function
+2025-11-11 17:22:27.930 [1762878142288203/extract_features/3 (pid 4315)] step_function()
+2025-11-11 17:22:27.930 [1762878142288203/extract_features/3 (pid 4315)] File "/mnt/c/Users/lenovo/Documents/chess-insights-pipeline/chess-insights/chess_pipeline_flow.py", line 112, in extract_features
+2025-11-11 17:22:27.930 [1762878142288203/extract_features/3 (pid 4315)] df["num_moves"] = df["moves"].apply(lambda s: len(str(s).split()))
+2025-11-11 17:22:27.930 [1762878142288203/extract_features/3 (pid 4315)] ~~^^^^^^^^^
+2025-11-11 17:22:27.931 [1762878142288203/extract_features/3 (pid 4315)] File "/home/linuxmi/venvs/chess-insights/lib/python3.12/site-packages/pandas/core/frame.py", line 4113, in __getitem__
+2025-11-11 17:22:27.931 [1762878142288203/extract_features/3 (pid 4315)] indexer = self.columns.get_loc(key)
+2025-11-11 17:22:27.931 [1762878142288203/extract_features/3 (pid 4315)] ^^^^^^^^^^^^^^^^^^^^^^^^^
+2025-11-11 17:22:27.931 [1762878142288203/extract_features/3 (pid 4315)] File "/home/linuxmi/venvs/chess-insights/lib/python3.12/site-packages/pandas/core/indexes/range.py", line 417, in get_loc
+2025-11-11 17:22:27.931 [1762878142288203/extract_features/3 (pid 4315)] raise KeyError(key)
+2025-11-11 17:22:27.931 [1762878142288203/extract_features/3 (pid 4315)] KeyError: 'moves'
+2025-11-11 17:22:27.931 [1762878142288203/extract_features/3 (pid 4315)]
+2025-11-11 17:22:27.943 [1762878142288203/extract_features/3 (pid 4315)] Task failed.
+2025-11-11 17:22:27.965 Workflow failed.
+2025-11-11 17:22:27.965 Terminating 0 active tasks...
+2025-11-11 17:22:27.965 Flushing logs...
+    Step failure:
+    Step extract_features (task-id 3) failed.
+
+(chess-insights) linuxmi@DESKTOP-UQCGKJU:/mnt/c/Users/lenovo/Documents/chess-insights-pipeline/chess-insights$ python chess_pipeline_flow.py run
+Metaflow 2.19.7 executing ChessInsightsFlow for user:linuxmi
+Validating your flow...
+    The graph looks good!
+Running pylint...
+    Pylint not found, so extra checks are disabled.
+2025-11-11 17:23:12.621 Workflow starting (run-id 1762878192588566):
+2025-11-11 17:23:12.211 [1762878192588566/start/1 (pid 4342)] Task is starting.
+2025-11-11 17:23:13.054 [1762878192588566/start/1 (pid 4342)] 🔹 Starting ChessInsightsFlow...
+2025-11-11 17:23:13.106 [1762878192588566/start/1 (pid 4342)] PGN directory: chess_insights/src/data
+2025-11-11 17:23:13.765 [1762878192588566/start/1 (pid 4342)] Processed directory: chess_insights/src/data/processed
+2025-11-11 17:23:13.765 [1762878192588566/start/1 (pid 4342)] Model output directory: chess_insights/src/models
+2025-11-11 17:23:13.802 [1762878192588566/start/1 (pid 4342)] Task finished successfully.
+2025-11-11 17:23:14.094 [1762878192588566/load_games/2 (pid 4352)] Task is starting.
+2025-11-11 17:23:15.004 [1762878192588566/load_games/2 (pid 4352)] 🔹 Loading PGN games...
+2025-11-11 17:23:15.041 [1762878192588566/load_games/2 (pid 4352)] 🔹 Loaded 0 games
+2025-11-11 17:23:15.066 [1762878192588566/load_games/2 (pid 4352)] ✅ Saved raw data to chess_insights/src/data/processed/games_raw.csv
+2025-11-11 17:23:15.757 [1762878192588566/load_games/2 (pid 4352)] Task finished successfully.
+2025-11-11 17:23:16.019 [1762878192588566/extract_features/3 (pid 4362)] Task is starting.
+2025-11-11 17:23:16.935 [1762878192588566/extract_features/3 (pid 4362)] 🔹 Extracting features...
+2025-11-11 17:23:16.956 [1762878192588566/extract_features/3 (pid 4362)] <flow ChessInsightsFlow step extract_features> failed:
+2025-11-11 17:23:17.482 [1762878192588566/extract_features/3 (pid 4362)] Internal error
+2025-11-11 17:23:17.485 [1762878192588566/extract_features/3 (pid 4362)] Traceback (most recent call last):
+2025-11-11 17:23:17.485 [1762878192588566/extract_features/3 (pid 4362)] File "/home/linuxmi/venvs/chess-insights/lib/python3.12/site-packages/metaflow/cli.py", line 723, in main
+2025-11-11 17:23:17.485 [1762878192588566/extract_features/3 (pid 4362)] start(auto_envvar_prefix="METAFLOW", obj=state)
+2025-11-11 17:23:17.485 [1762878192588566/extract_features/3 (pid 4362)] File "/home/linuxmi/venvs/chess-insights/lib/python3.12/site-packages/metaflow/_vendor/click/core.py", line 829, in __call__
+2025-11-11 17:23:17.486 [1762878192588566/extract_features/3 (pid 4362)] return self.main(args, kwargs)
+2025-11-11 17:23:17.486 [1762878192588566/extract_features/3 (pid 4362)] ^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025-11-11 17:23:17.486 [1762878192588566/extract_features/3 (pid 4362)] File "/home/linuxmi/venvs/chess-insights/lib/python3.12/site-packages/metaflow/_vendor/click/core.py", line 782, in main
+2025-11-11 17:23:17.487 [1762878192588566/extract_features/3 (pid 4362)] rv = self.invoke(ctx)
+2025-11-11 17:23:17.487 [1762878192588566/extract_features/3 (pid 4362)] ^^^^^^^^^^^^^^^^
+2025-11-11 17:23:17.487 [1762878192588566/extract_features/3 (pid 4362)] File "/home/linuxmi/venvs/chess-insights/lib/python3.12/site-packages/metaflow/cli_components/utils.py", line 69, in invoke
+2025-11-11 17:23:17.487 [1762878192588566/extract_features/3 (pid 4362)] return _process_result(sub_ctx.command.invoke(sub_ctx))
+2025-11-11 17:23:17.487 [1762878192588566/extract_features/3 (pid 4362)] ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025-11-11 17:23:17.487 [1762878192588566/extract_features/3 (pid 4362)] File "/home/linuxmi/venvs/chess-insights/lib/python3.12/site-packages/metaflow/_vendor/click/core.py", line 1066, in invoke
+2025-11-11 17:23:17.488 [1762878192588566/extract_features/3 (pid 4362)] return ctx.invoke(self.callback, ctx.params)
+2025-11-11 17:23:17.488 [1762878192588566/extract_features/3 (pid 4362)] ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025-11-11 17:23:17.488 [1762878192588566/extract_features/3 (pid 4362)] File "/home/linuxmi/venvs/chess-insights/lib/python3.12/site-packages/metaflow/_vendor/click/core.py", line 610, in invoke
+2025-11-11 17:23:17.488 [1762878192588566/extract_features/3 (pid 4362)] return callback(args, kwargs)
+2025-11-11 17:23:17.599 [1762878192588566/extract_features/3 (pid 4362)] ^^^^^^^^^^^^^^^^^^^^^^^^^
+2025-11-11 17:23:17.599 [1762878192588566/extract_features/3 (pid 4362)] File "/home/linuxmi/venvs/chess-insights/lib/python3.12/site-packages/metaflow/tracing/__init__.py", line 27, in wrapper_func
+2025-11-11 17:23:17.599 [1762878192588566/extract_features/3 (pid 4362)] return func(args, kwargs)
+2025-11-11 17:23:17.600 [1762878192588566/extract_features/3 (pid 4362)] ^^^^^^^^^^^^^^^^^^^^^
+2025-11-11 17:23:17.600 [1762878192588566/extract_features/3 (pid 4362)] File "/home/linuxmi/venvs/chess-insights/lib/python3.12/site-packages/metaflow/_vendor/click/decorators.py", line 21, in new_func
+2025-11-11 17:23:17.600 [1762878192588566/extract_features/3 (pid 4362)] return f(get_current_context(), args, kwargs)
+2025-11-11 17:23:17.600 [1762878192588566/extract_features/3 (pid 4362)] ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025-11-11 17:23:17.600 [1762878192588566/extract_features/3 (pid 4362)] File "/home/linuxmi/venvs/chess-insights/lib/python3.12/site-packages/metaflow/cli_components/step_cmd.py", line 171, in step
+2025-11-11 17:23:17.601 [1762878192588566/extract_features/3 (pid 4362)] task.run_step(
+2025-11-11 17:23:17.601 [1762878192588566/extract_features/3 (pid 4362)] File "/home/linuxmi/venvs/chess-insights/lib/python3.12/site-packages/metaflow/task.py", line 899, in run_step
+2025-11-11 17:23:17.601 [1762878192588566/extract_features/3 (pid 4362)] self._exec_step_function(step_func, orig_step_func)
+2025-11-11 17:23:17.601 [1762878192588566/extract_features/3 (pid 4362)] File "/home/linuxmi/venvs/chess-insights/lib/python3.12/site-packages/metaflow/task.py", line 147, in _exec_step_function
+2025-11-11 17:23:17.601 [1762878192588566/extract_features/3 (pid 4362)] raise raised_exception
+2025-11-11 17:23:17.601 [1762878192588566/extract_features/3 (pid 4362)] File "/home/linuxmi/venvs/chess-insights/lib/python3.12/site-packages/metaflow/task.py", line 113, in _exec_step_function
+2025-11-11 17:23:17.602 [1762878192588566/extract_features/3 (pid 4362)] step_function()
+2025-11-11 17:23:17.602 [1762878192588566/extract_features/3 (pid 4362)] File "/mnt/c/Users/lenovo/Documents/chess-insights-pipeline/chess-insights/chess_pipeline_flow.py", line 112, in extract_features
+2025-11-11 17:23:17.602 [1762878192588566/extract_features/3 (pid 4362)] df["num_moves"] = df["moves"].apply(lambda s: len(str(s).split()))
+2025-11-11 17:23:17.602 [1762878192588566/extract_features/3 (pid 4362)] ~~^^^^^^^^^
+2025-11-11 17:23:17.602 [1762878192588566/extract_features/3 (pid 4362)] File "/home/linuxmi/venvs/chess-insights/lib/python3.12/site-packages/pandas/core/frame.py", line 4113, in __getitem__
+2025-11-11 17:23:17.602 [1762878192588566/extract_features/3 (pid 4362)] indexer = self.columns.get_loc(key)
+2025-11-11 17:23:17.602 [1762878192588566/extract_features/3 (pid 4362)] ^^^^^^^^^^^^^^^^^^^^^^^^^
+2025-11-11 17:23:17.603 [1762878192588566/extract_features/3 (pid 4362)] File "/home/linuxmi/venvs/chess-insights/lib/python3.12/site-packages/pandas/core/indexes/range.py", line 417, in get_loc
+2025-11-11 17:23:17.603 [1762878192588566/extract_features/3 (pid 4362)] raise KeyError(key)
+2025-11-11 17:23:17.603 [1762878192588566/extract_features/3 (pid 4362)] KeyError: 'moves'
+2025-11-11 17:23:17.603 [1762878192588566/extract_features/3 (pid 4362)]
+2025-11-11 17:23:17.625 [1762878192588566/extract_features/3 (pid 4362)] Task failed.
+2025-11-11 17:23:17.648 Workflow failed.
+2025-11-11 17:23:17.648 Terminating 0 active tasks...
+2025-11-11 17:23:17.648 Flushing logs...
+    Step failure:
+    Step extract_features (task-id 3) failed.
+
+(chess-insights) linuxmi@DESKTOP-UQCGKJU:/mnt/c/Users/lenovo/Documents/chess-insights-pipeline/chess-insights$ python chess_pipeline_flow.py run
+Metaflow 2.19.7 executing ChessInsightsFlow for user:linuxmi
+Validating your flow...
+    The graph looks good!
+Running pylint...
+    Pylint not found, so extra checks are disabled.
+2025-11-11 17:23:44.355 Workflow starting (run-id 1762878224320825):
+2025-11-11 17:23:44.945 [1762878224320825/start/1 (pid 4385)] Task is starting.
+2025-11-11 17:23:45.766 [1762878224320825/start/1 (pid 4385)] 🔹 Starting ChessInsightsFlow...
+2025-11-11 17:23:45.817 [1762878224320825/start/1 (pid 4385)] PGN directory: chess-insights/src/data
+2025-11-11 17:23:46.460 [1762878224320825/start/1 (pid 4385)] Processed directory: chess-insights/src/data/processed
+2025-11-11 17:23:46.460 [1762878224320825/start/1 (pid 4385)] Model output directory: chess-insights/src/models
+2025-11-11 17:23:46.512 [1762878224320825/start/1 (pid 4385)] Task finished successfully.
+2025-11-11 17:23:46.789 [1762878224320825/load_games/2 (pid 4395)] Task is starting.
+2025-11-11 17:23:47.694 [1762878224320825/load_games/2 (pid 4395)] 🔹 Loading PGN games...
+2025-11-11 17:23:47.713 [1762878224320825/load_games/2 (pid 4395)] 🔹 Loaded 0 games
+2025-11-11 17:23:47.737 [1762878224320825/load_games/2 (pid 4395)] ✅ Saved raw data to chess-insights/src/data/processed/games_raw.csv
+2025-11-11 17:23:48.446 [1762878224320825/load_games/2 (pid 4395)] Task finished successfully.
+2025-11-11 17:23:48.745 [1762878224320825/extract_features/3 (pid 4405)] Task is starting.
+2025-11-11 17:23:49.743 [1762878224320825/extract_features/3 (pid 4405)] 🔹 Extracting features...
+2025-11-11 17:23:49.764 [1762878224320825/extract_features/3 (pid 4405)] <flow ChessInsightsFlow step extract_features> failed:
+2025-11-11 17:23:50.301 [1762878224320825/extract_features/3 (pid 4405)] Internal error
+2025-11-11 17:23:50.304 [1762878224320825/extract_features/3 (pid 4405)] Traceback (most recent call last):
+2025-11-11 17:23:50.304 [1762878224320825/extract_features/3 (pid 4405)] File "/home/linuxmi/venvs/chess-insights/lib/python3.12/site-packages/metaflow/cli.py", line 723, in main
+2025-11-11 17:23:50.305 [1762878224320825/extract_features/3 (pid 4405)] start(auto_envvar_prefix="METAFLOW", obj=state)
+2025-11-11 17:23:50.305 [1762878224320825/extract_features/3 (pid 4405)] File "/home/linuxmi/venvs/chess-insights/lib/python3.12/site-packages/metaflow/_vendor/click/core.py", line 829, in __call__
+2025-11-11 17:23:50.305 [1762878224320825/extract_features/3 (pid 4405)] return self.main(args, kwargs)
+2025-11-11 17:23:50.305 [1762878224320825/extract_features/3 (pid 4405)] ^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025-11-11 17:23:50.306 [1762878224320825/extract_features/3 (pid 4405)] File "/home/linuxmi/venvs/chess-insights/lib/python3.12/site-packages/metaflow/_vendor/click/core.py", line 782, in main
+2025-11-11 17:23:50.306 [1762878224320825/extract_features/3 (pid 4405)] rv = self.invoke(ctx)
+2025-11-11 17:23:50.306 [1762878224320825/extract_features/3 (pid 4405)] ^^^^^^^^^^^^^^^^
+2025-11-11 17:23:50.306 [1762878224320825/extract_features/3 (pid 4405)] File "/home/linuxmi/venvs/chess-insights/lib/python3.12/site-packages/metaflow/cli_components/utils.py", line 69, in invoke
+2025-11-11 17:23:50.306 [1762878224320825/extract_features/3 (pid 4405)] return _process_result(sub_ctx.command.invoke(sub_ctx))
+2025-11-11 17:23:50.307 [1762878224320825/extract_features/3 (pid 4405)] ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025-11-11 17:23:50.307 [1762878224320825/extract_features/3 (pid 4405)] File "/home/linuxmi/venvs/chess-insights/lib/python3.12/site-packages/metaflow/_vendor/click/core.py", line 1066, in invoke
+2025-11-11 17:23:50.307 [1762878224320825/extract_features/3 (pid 4405)] return ctx.invoke(self.callback, ctx.params)
+2025-11-11 17:23:50.414 [1762878224320825/extract_features/3 (pid 4405)] ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025-11-11 17:23:50.414 [1762878224320825/extract_features/3 (pid 4405)] File "/home/linuxmi/venvs/chess-insights/lib/python3.12/site-packages/metaflow/_vendor/click/core.py", line 610, in invoke
+2025-11-11 17:23:50.414 [1762878224320825/extract_features/3 (pid 4405)] return callback(args, kwargs)
+2025-11-11 17:23:50.415 [1762878224320825/extract_features/3 (pid 4405)] ^^^^^^^^^^^^^^^^^^^^^^^^^
+2025-11-11 17:23:50.415 [1762878224320825/extract_features/3 (pid 4405)] File "/home/linuxmi/venvs/chess-insights/lib/python3.12/site-packages/metaflow/tracing/__init__.py", line 27, in wrapper_func
+2025-11-11 17:23:50.415 [1762878224320825/extract_features/3 (pid 4405)] return func(args, kwargs)
+2025-11-11 17:23:50.416 [1762878224320825/extract_features/3 (pid 4405)] ^^^^^^^^^^^^^^^^^^^^^
+2025-11-11 17:23:50.416 [1762878224320825/extract_features/3 (pid 4405)] File "/home/linuxmi/venvs/chess-insights/lib/python3.12/site-packages/metaflow/_vendor/click/decorators.py", line 21, in new_func
+2025-11-11 17:23:50.416 [1762878224320825/extract_features/3 (pid 4405)] return f(get_current_context(), args, kwargs)
+2025-11-11 17:23:50.416 [1762878224320825/extract_features/3 (pid 4405)] ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025-11-11 17:23:50.417 [1762878224320825/extract_features/3 (pid 4405)] File "/home/linuxmi/venvs/chess-insights/lib/python3.12/site-packages/metaflow/cli_components/step_cmd.py", line 171, in step
+2025-11-11 17:23:50.417 [1762878224320825/extract_features/3 (pid 4405)] task.run_step(
+2025-11-11 17:23:50.417 [1762878224320825/extract_features/3 (pid 4405)] File "/home/linuxmi/venvs/chess-insights/lib/python3.12/site-packages/metaflow/task.py", line 899, in run_step
+2025-11-11 17:23:50.417 [1762878224320825/extract_features/3 (pid 4405)] self._exec_step_function(step_func, orig_step_func)
+2025-11-11 17:23:50.418 [1762878224320825/extract_features/3 (pid 4405)] File "/home/linuxmi/venvs/chess-insights/lib/python3.12/site-packages/metaflow/task.py", line 147, in _exec_step_function
+2025-11-11 17:23:50.418 [1762878224320825/extract_features/3 (pid 4405)] raise raised_exception
+2025-11-11 17:23:50.418 [1762878224320825/extract_features/3 (pid 4405)] File "/home/linuxmi/venvs/chess-insights/lib/python3.12/site-packages/metaflow/task.py", line 113, in _exec_step_function
+2025-11-11 17:23:50.418 [1762878224320825/extract_features/3 (pid 4405)] step_function()
+2025-11-11 17:23:50.419 [1762878224320825/extract_features/3 (pid 4405)] File "/mnt/c/Users/lenovo/Documents/chess-insights-pipeline/chess-insights/chess_pipeline_flow.py", line 112, in extract_features
+2025-11-11 17:23:50.419 [1762878224320825/extract_features/3 (pid 4405)] df["num_moves"] = df["moves"].apply(lambda s: len(str(s).split()))
+2025-11-11 17:23:50.419 [1762878224320825/extract_features/3 (pid 4405)] ~~^^^^^^^^^
+2025-11-11 17:23:50.419 [1762878224320825/extract_features/3 (pid 4405)] File "/home/linuxmi/venvs/chess-insights/lib/python3.12/site-packages/pandas/core/frame.py", line 4113, in __getitem__
+2025-11-11 17:23:50.420 [1762878224320825/extract_features/3 (pid 4405)] indexer = self.columns.get_loc(key)
+2025-11-11 17:23:50.420 [1762878224320825/extract_features/3 (pid 4405)] ^^^^^^^^^^^^^^^^^^^^^^^^^
+2025-11-11 17:23:50.420 [1762878224320825/extract_features/3 (pid 4405)] File "/home/linuxmi/venvs/chess-insights/lib/python3.12/site-packages/pandas/core/indexes/range.py", line 417, in get_loc
+2025-11-11 17:23:50.420 [1762878224320825/extract_features/3 (pid 4405)] raise KeyError(key)
+2025-11-11 17:23:50.420 [1762878224320825/extract_features/3 (pid 4405)] KeyError: 'moves'
+2025-11-11 17:23:50.421 [1762878224320825/extract_features/3 (pid 4405)]
+2025-11-11 17:23:50.431 [1762878224320825/extract_features/3 (pid 4405)] Task failed.
+2025-11-11 17:23:50.463 Workflow failed.
+2025-11-11 17:23:50.463 Terminating 0 active tasks...
+2025-11-11 17:23:50.463 Flushing logs...
+    Step failure:
+    Step extract_features (task-id 3) failed.
+
+(chess-insights) linuxmi@DESKTOP-UQCGKJU:/mnt/c/Users/lenovo/Documents/chess-insights-pipeline/chess-insights$ python chess_pipeline_flow.py run
+Metaflow 2.19.7 executing ChessInsightsFlow for user:linuxmi
+Validating your flow...
+    The graph looks good!
+Running pylint...
+    Pylint not found, so extra checks are disabled.
+2025-11-11 17:24:49.381 Workflow starting (run-id 1762878289347953):
+2025-11-11 17:24:49.897 [1762878289347953/start/1 (pid 4430)] Task is starting.
+2025-11-11 17:24:50.715 [1762878289347953/start/1 (pid 4430)] 🔹 Starting ChessInsightsFlow...
+2025-11-11 17:24:50.761 [1762878289347953/start/1 (pid 4430)] PGN directory: src/data
+2025-11-11 17:24:51.346 [1762878289347953/start/1 (pid 4430)] Processed directory: src/data/processed
+2025-11-11 17:24:51.347 [1762878289347953/start/1 (pid 4430)] Model output directory: src/models
+2025-11-11 17:24:51.384 [1762878289347953/start/1 (pid 4430)] Task finished successfully.
+2025-11-11 17:24:51.625 [1762878289347953/load_games/2 (pid 4440)] Task is starting.
+2025-11-11 17:24:52.465 [1762878289347953/load_games/2 (pid 4440)] 🔹 Loading PGN games...
+2025-11-11 17:24:52.482 [1762878289347953/load_games/2 (pid 4440)] → reading sample_games.pgn
+2025-11-11 17:24:52.483 [1762878289347953/load_games/2 (pid 4440)] 🔹 Loaded 1 games
+2025-11-11 17:24:52.501 [1762878289347953/load_games/2 (pid 4440)] ✅ Saved raw data to src/data/processed/games_raw.csv
+2025-11-11 17:24:53.179 [1762878289347953/load_games/2 (pid 4440)] Task finished successfully.
+2025-11-11 17:24:53.477 [1762878289347953/extract_features/3 (pid 4450)] Task is starting.
+2025-11-11 17:24:54.391 [1762878289347953/extract_features/3 (pid 4450)] 🔹 Extracting features...
+2025-11-11 17:24:54.415 [1762878289347953/extract_features/3 (pid 4450)] <flow ChessInsightsFlow step extract_features> failed:
+2025-11-11 17:24:55.020 [1762878289347953/extract_features/3 (pid 4450)] Internal error
+2025-11-11 17:24:55.023 [1762878289347953/extract_features/3 (pid 4450)] Traceback (most recent call last):
+2025-11-11 17:24:55.024 [1762878289347953/extract_features/3 (pid 4450)] File "/home/linuxmi/venvs/chess-insights/lib/python3.12/site-packages/metaflow/cli.py", line 723, in main
+2025-11-11 17:24:55.024 [1762878289347953/extract_features/3 (pid 4450)] start(auto_envvar_prefix="METAFLOW", obj=state)
+2025-11-11 17:24:55.024 [1762878289347953/extract_features/3 (pid 4450)] File "/home/linuxmi/venvs/chess-insights/lib/python3.12/site-packages/metaflow/_vendor/click/core.py", line 829, in __call__
+2025-11-11 17:24:55.025 [1762878289347953/extract_features/3 (pid 4450)] return self.main(args, kwargs)
+2025-11-11 17:24:55.025 [1762878289347953/extract_features/3 (pid 4450)] ^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025-11-11 17:24:55.025 [1762878289347953/extract_features/3 (pid 4450)] File "/home/linuxmi/venvs/chess-insights/lib/python3.12/site-packages/metaflow/_vendor/click/core.py", line 782, in main
+2025-11-11 17:24:55.025 [1762878289347953/extract_features/3 (pid 4450)] rv = self.invoke(ctx)
+2025-11-11 17:24:55.026 [1762878289347953/extract_features/3 (pid 4450)] ^^^^^^^^^^^^^^^^
+2025-11-11 17:24:55.026 [1762878289347953/extract_features/3 (pid 4450)] File "/home/linuxmi/venvs/chess-insights/lib/python3.12/site-packages/metaflow/cli_components/utils.py", line 69, in invoke
+2025-11-11 17:24:55.026 [1762878289347953/extract_features/3 (pid 4450)] return _process_result(sub_ctx.command.invoke(sub_ctx))
+2025-11-11 17:24:55.026 [1762878289347953/extract_features/3 (pid 4450)] ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025-11-11 17:24:55.026 [1762878289347953/extract_features/3 (pid 4450)] File "/home/linuxmi/venvs/chess-insights/lib/python3.12/site-packages/metaflow/_vendor/click/core.py", line 1066, in invoke
+2025-11-11 17:24:55.027 [1762878289347953/extract_features/3 (pid 4450)] return ctx.invoke(self.callback, ctx.params)
+2025-11-11 17:24:55.027 [1762878289347953/extract_features/3 (pid 4450)] ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025-11-11 17:24:55.027 [1762878289347953/extract_features/3 (pid 4450)] File "/home/linuxmi/venvs/chess-insights/lib/python3.12/site-packages/metaflow/_vendor/click/core.py", line 610, in invoke
+2025-11-11 17:24:55.027 [1762878289347953/extract_features/3 (pid 4450)] return callback(args, kwargs)
+2025-11-11 17:24:55.135 [1762878289347953/extract_features/3 (pid 4450)] ^^^^^^^^^^^^^^^^^^^^^^^^^
+2025-11-11 17:24:55.135 [1762878289347953/extract_features/3 (pid 4450)] File "/home/linuxmi/venvs/chess-insights/lib/python3.12/site-packages/metaflow/tracing/__init__.py", line 27, in wrapper_func
+2025-11-11 17:24:55.135 [1762878289347953/extract_features/3 (pid 4450)] return func(args, kwargs)
+2025-11-11 17:24:55.135 [1762878289347953/extract_features/3 (pid 4450)] ^^^^^^^^^^^^^^^^^^^^^
+2025-11-11 17:24:55.135 [1762878289347953/extract_features/3 (pid 4450)] File "/home/linuxmi/venvs/chess-insights/lib/python3.12/site-packages/metaflow/_vendor/click/decorators.py", line 21, in new_func
+2025-11-11 17:24:55.136 [1762878289347953/extract_features/3 (pid 4450)] return f(get_current_context(), args, kwargs)
+2025-11-11 17:24:55.136 [1762878289347953/extract_features/3 (pid 4450)] ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025-11-11 17:24:55.136 [1762878289347953/extract_features/3 (pid 4450)] File "/home/linuxmi/venvs/chess-insights/lib/python3.12/site-packages/metaflow/cli_components/step_cmd.py", line 171, in step
+2025-11-11 17:24:55.136 [1762878289347953/extract_features/3 (pid 4450)] task.run_step(
+2025-11-11 17:24:55.137 [1762878289347953/extract_features/3 (pid 4450)] File "/home/linuxmi/venvs/chess-insights/lib/python3.12/site-packages/metaflow/task.py", line 899, in run_step
+2025-11-11 17:24:55.137 [1762878289347953/extract_features/3 (pid 4450)] self._exec_step_function(step_func, orig_step_func)
+2025-11-11 17:24:55.137 [1762878289347953/extract_features/3 (pid 4450)] File "/home/linuxmi/venvs/chess-insights/lib/python3.12/site-packages/metaflow/task.py", line 147, in _exec_step_function
+2025-11-11 17:24:55.137 [1762878289347953/extract_features/3 (pid 4450)] raise raised_exception
+2025-11-11 17:24:55.137 [1762878289347953/extract_features/3 (pid 4450)] File "/home/linuxmi/venvs/chess-insights/lib/python3.12/site-packages/metaflow/task.py", line 113, in _exec_step_function
+2025-11-11 17:24:55.137 [1762878289347953/extract_features/3 (pid 4450)] step_function()
+2025-11-11 17:24:55.138 [1762878289347953/extract_features/3 (pid 4450)] File "/mnt/c/Users/lenovo/Documents/chess-insights-pipeline/chess-insights/chess_pipeline_flow.py", line 122, in extract_features
+2025-11-11 17:24:55.138 [1762878289347953/extract_features/3 (pid 4450)] from sklearn.model_selection import train_test_split
+2025-11-11 17:24:55.138 [1762878289347953/extract_features/3 (pid 4450)] ModuleNotFoundError: No module named 'sklearn'
+2025-11-11 17:24:55.138 [1762878289347953/extract_features/3 (pid 4450)]
+2025-11-11 17:24:55.163 [1762878289347953/extract_features/3 (pid 4450)] Task failed.
+2025-11-11 17:24:55.185 Workflow failed.
+2025-11-11 17:24:55.185 Terminating 0 active tasks...
+2025-11-11 17:24:55.185 Flushing logs...
+    Step failure:
+    Step extract_features (task-id 3) failed.
+
+(chess-insights) linuxmi@DESKTOP-UQCGKJU:/mnt/c/Users/lenovo/Documents/chess-insights-pipeline/chess-insights$ pip install sklearn
+Collecting sklearn
+  Downloading sklearn-0.0.post12.tar.gz (2.6 kB)
+  Installing build dependencies ... done
+  Getting requirements to build wheel ... error
+  error: subprocess-exited-with-error
+
+  × Getting requirements to build wheel did not run successfully.
+  │ exit code: 1
+  ╰─> [15 lines of output]
+      The 'sklearn' PyPI package is deprecated, use 'scikit-learn'
+      rather than 'sklearn' for pip commands.
+
+      Here is how to fix this error in the main use cases:
+      - use 'pip install scikit-learn' rather than 'pip install sklearn'
+      - replace 'sklearn' by 'scikit-learn' in your pip requirements files
+        (requirements.txt, setup.py, setup.cfg, Pipfile, etc ...)
+      - if the 'sklearn' package is used by one of your dependencies,
+        it would be great if you take some time to track which package uses
+        'sklearn' instead of 'scikit-learn' and report it to their issue tracker
+      - as a last resort, set the environment variable
+        SKLEARN_ALLOW_DEPRECATED_SKLEARN_PACKAGE_INSTALL=True to avoid this error
+
+      More information is available at
+      https://github.com/scikit-learn/sklearn-pypi-package
+      [end of output]
+
+  note: This error originates from a subprocess, and is likely not a problem with pip.
+ERROR: Failed to build 'sklearn' when getting requirements to build wheel
+(chess-insights) linuxmi@DESKTOP-UQCGKJU:/mnt/c/Users/lenovo/Documents/chess-insights-pipeline/chess-insights$ pip install scikit-learn
+Collecting scikit-learn
+  Downloading scikit_learn-1.7.2-cp312-cp312-manylinux2014_x86_64.manylinux_2_17_x86_64.whl.metadata (11 kB)
+Requirement already satisfied: numpy>=1.22.0 in /home/linuxmi/venvs/chess-insights/lib/python3.12/site-packages (from scikit-learn) (2.3.4)
+Collecting scipy>=1.8.0 (from scikit-learn)
+  Downloading scipy-1.16.3-cp312-cp312-manylinux2014_x86_64.manylinux_2_17_x86_64.whl.metadata (62 kB)
+Collecting joblib>=1.2.0 (from scikit-learn)
+  Downloading joblib-1.5.2-py3-none-any.whl.metadata (5.6 kB)
+Collecting threadpoolctl>=3.1.0 (from scikit-learn)
+  Downloading threadpoolctl-3.6.0-py3-none-any.whl.metadata (13 kB)
+Downloading scikit_learn-1.7.2-cp312-cp312-manylinux2014_x86_64.manylinux_2_17_x86_64.whl (9.5 MB)
+   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 9.5/9.5 MB 3.8 MB/s  0:00:02
+Downloading joblib-1.5.2-py3-none-any.whl (308 kB)
+Downloading scipy-1.16.3-cp312-cp312-manylinux2014_x86_64.manylinux_2_17_x86_64.whl (35.7 MB)
+   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 35.7/35.7 MB 3.4 MB/s  0:00:10
+Downloading threadpoolctl-3.6.0-py3-none-any.whl (18 kB)
+Installing collected packages: threadpoolctl, scipy, joblib, scikit-learn
+Successfully installed joblib-1.5.2 scikit-learn-1.7.2 scipy-1.16.3 threadpoolctl-3.6.0
+(chess-insights) linuxmi@DESKTOP-UQCGKJU:/mnt/c/Users/lenovo/Documents/chess-insights-pipeline/chess-insights$ pip install scikit-learn
+Requirement already satisfied: scikit-learn in /home/linuxmi/venvs/chess-insights/lib/python3.12/site-packages (1.7.2)
+Requirement already satisfied: numpy>=1.22.0 in /home/linuxmi/venvs/chess-insights/lib/python3.12/site-packages (from scikit-learn) (2.3.4)
+Requirement already satisfied: scipy>=1.8.0 in /home/linuxmi/venvs/chess-insights/lib/python3.12/site-packages (from scikit-learn) (1.16.3)
+Requirement already satisfied: joblib>=1.2.0 in /home/linuxmi/venvs/chess-insights/lib/python3.12/site-packages (from scikit-learn) (1.5.2)
+Requirement already satisfied: threadpoolctl>=3.1.0 in /home/linuxmi/venvs/chess-insights/lib/python3.12/site-packages (from scikit-learn) (3.6.0)
+(chess-insights) linuxmi@DESKTOP-UQCGKJU:/mnt/c/Users/lenovo/Documents/chess-insights-pipeline/chess-insights$ python chess_pipeline_flow.py run
+Metaflow 2.19.7 executing ChessInsightsFlow for user:linuxmi
+Validating your flow...
+    The graph looks good!
+Running pylint...
+    Pylint not found, so extra checks are disabled.
+2025-11-11 17:26:29.779 Workflow starting (run-id 1762878389744342):
+2025-11-11 17:26:30.286 [1762878389744342/start/1 (pid 4551)] Task is starting.
+2025-11-11 17:26:31.060 [1762878389744342/start/1 (pid 4551)] 🔹 Starting ChessInsightsFlow...
+2025-11-11 17:26:31.093 [1762878389744342/start/1 (pid 4551)] PGN directory: src/data
+2025-11-11 17:26:31.636 [1762878389744342/start/1 (pid 4551)] Processed directory: src/data/processed
+2025-11-11 17:26:31.636 [1762878389744342/start/1 (pid 4551)] Model output directory: src/models
+2025-11-11 17:26:31.684 [1762878389744342/start/1 (pid 4551)] Task finished successfully.
+2025-11-11 17:26:31.934 [1762878389744342/load_games/2 (pid 4561)] Task is starting.
+2025-11-11 17:26:32.749 [1762878389744342/load_games/2 (pid 4561)] 🔹 Loading PGN games...
+2025-11-11 17:26:32.764 [1762878389744342/load_games/2 (pid 4561)] → reading sample_games.pgn
+2025-11-11 17:26:32.765 [1762878389744342/load_games/2 (pid 4561)] 🔹 Loaded 1 games
+2025-11-11 17:26:32.783 [1762878389744342/load_games/2 (pid 4561)] ✅ Saved raw data to src/data/processed/games_raw.csv
+2025-11-11 17:26:33.396 [1762878389744342/load_games/2 (pid 4561)] Task finished successfully.
+2025-11-11 17:26:33.645 [1762878389744342/extract_features/3 (pid 4571)] Task is starting.
+2025-11-11 17:26:34.543 [1762878389744342/extract_features/3 (pid 4571)] 🔹 Extracting features...
+2025-11-11 17:26:35.355 [1762878389744342/extract_features/3 (pid 4571)] <flow ChessInsightsFlow step extract_features> failed:
+2025-11-11 17:26:35.929 [1762878389744342/extract_features/3 (pid 4571)] Internal error
+2025-11-11 17:26:35.932 [1762878389744342/extract_features/3 (pid 4571)] Traceback (most recent call last):
+2025-11-11 17:26:35.933 [1762878389744342/extract_features/3 (pid 4571)] File "/home/linuxmi/venvs/chess-insights/lib/python3.12/site-packages/metaflow/cli.py", line 723, in main
+2025-11-11 17:26:35.933 [1762878389744342/extract_features/3 (pid 4571)] start(auto_envvar_prefix="METAFLOW", obj=state)
+2025-11-11 17:26:35.933 [1762878389744342/extract_features/3 (pid 4571)] File "/home/linuxmi/venvs/chess-insights/lib/python3.12/site-packages/metaflow/_vendor/click/core.py", line 829, in __call__
+2025-11-11 17:26:35.933 [1762878389744342/extract_features/3 (pid 4571)] return self.main(args, kwargs)
+2025-11-11 17:26:35.933 [1762878389744342/extract_features/3 (pid 4571)] ^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025-11-11 17:26:35.934 [1762878389744342/extract_features/3 (pid 4571)] File "/home/linuxmi/venvs/chess-insights/lib/python3.12/site-packages/metaflow/_vendor/click/core.py", line 782, in main
+2025-11-11 17:26:35.934 [1762878389744342/extract_features/3 (pid 4571)] rv = self.invoke(ctx)
+2025-11-11 17:26:35.934 [1762878389744342/extract_features/3 (pid 4571)] ^^^^^^^^^^^^^^^^
+2025-11-11 17:26:35.934 [1762878389744342/extract_features/3 (pid 4571)] File "/home/linuxmi/venvs/chess-insights/lib/python3.12/site-packages/metaflow/cli_components/utils.py", line 69, in invoke
+2025-11-11 17:26:35.934 [1762878389744342/extract_features/3 (pid 4571)] return _process_result(sub_ctx.command.invoke(sub_ctx))
+2025-11-11 17:26:35.935 [1762878389744342/extract_features/3 (pid 4571)] ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025-11-11 17:26:35.935 [1762878389744342/extract_features/3 (pid 4571)] File "/home/linuxmi/venvs/chess-insights/lib/python3.12/site-packages/metaflow/_vendor/click/core.py", line 1066, in invoke
+2025-11-11 17:26:35.935 [1762878389744342/extract_features/3 (pid 4571)] return ctx.invoke(self.callback, ctx.params)
+2025-11-11 17:26:35.935 [1762878389744342/extract_features/3 (pid 4571)] ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025-11-11 17:26:35.935 [1762878389744342/extract_features/3 (pid 4571)] File "/home/linuxmi/venvs/chess-insights/lib/python3.12/site-packages/metaflow/_vendor/click/core.py", line 610, in invoke
+2025-11-11 17:26:35.935 [1762878389744342/extract_features/3 (pid 4571)] return callback(args, kwargs)
+2025-11-11 17:26:35.695 [1762878389744342/extract_features/3 (pid 4571)] ^^^^^^^^^^^^^^^^^^^^^^^^^
+2025-11-11 17:26:35.695 [1762878389744342/extract_features/3 (pid 4571)] File "/home/linuxmi/venvs/chess-insights/lib/python3.12/site-packages/metaflow/tracing/__init__.py", line 27, in wrapper_func
+2025-11-11 17:26:35.695 [1762878389744342/extract_features/3 (pid 4571)] return func(args, kwargs)
+2025-11-11 17:26:35.695 [1762878389744342/extract_features/3 (pid 4571)] ^^^^^^^^^^^^^^^^^^^^^
+2025-11-11 17:26:35.695 [1762878389744342/extract_features/3 (pid 4571)] File "/home/linuxmi/venvs/chess-insights/lib/python3.12/site-packages/metaflow/_vendor/click/decorators.py", line 21, in new_func
+2025-11-11 17:26:35.696 [1762878389744342/extract_features/3 (pid 4571)] return f(get_current_context(), args, kwargs)
+2025-11-11 17:26:35.696 [1762878389744342/extract_features/3 (pid 4571)] ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025-11-11 17:26:35.696 [1762878389744342/extract_features/3 (pid 4571)] File "/home/linuxmi/venvs/chess-insights/lib/python3.12/site-packages/metaflow/cli_components/step_cmd.py", line 171, in step
+2025-11-11 17:26:35.696 [1762878389744342/extract_features/3 (pid 4571)] task.run_step(
+2025-11-11 17:26:35.696 [1762878389744342/extract_features/3 (pid 4571)] File "/home/linuxmi/venvs/chess-insights/lib/python3.12/site-packages/metaflow/task.py", line 899, in run_step
+2025-11-11 17:26:35.697 [1762878389744342/extract_features/3 (pid 4571)] self._exec_step_function(step_func, orig_step_func)
+2025-11-11 17:26:35.697 [1762878389744342/extract_features/3 (pid 4571)] File "/home/linuxmi/venvs/chess-insights/lib/python3.12/site-packages/metaflow/task.py", line 147, in _exec_step_function
+2025-11-11 17:26:35.697 [1762878389744342/extract_features/3 (pid 4571)] raise raised_exception
+2025-11-11 17:26:35.697 [1762878389744342/extract_features/3 (pid 4571)] File "/home/linuxmi/venvs/chess-insights/lib/python3.12/site-packages/metaflow/task.py", line 113, in _exec_step_function
+2025-11-11 17:26:35.698 [1762878389744342/extract_features/3 (pid 4571)] step_function()
+2025-11-11 17:26:35.698 [1762878389744342/extract_features/3 (pid 4571)] File "/mnt/c/Users/lenovo/Documents/chess-insights-pipeline/chess-insights/chess_pipeline_flow.py", line 129, in extract_features
+2025-11-11 17:26:35.698 [1762878389744342/extract_features/3 (pid 4571)] ) = train_test_split(
+2025-11-11 17:26:35.698 [1762878389744342/extract_features/3 (pid 4571)] ^^^^^^^^^^^^^^^^^
+2025-11-11 17:26:35.698 [1762878389744342/extract_features/3 (pid 4571)] File "/home/linuxmi/venvs/chess-insights/lib/python3.12/site-packages/sklearn/utils/_param_validation.py", line 218, in wrapper
+2025-11-11 17:26:35.698 [1762878389744342/extract_features/3 (pid 4571)] return func(args, kwargs)
+2025-11-11 17:26:35.699 [1762878389744342/extract_features/3 (pid 4571)] ^^^^^^^^^^^^^^^^^^^^^
+2025-11-11 17:26:35.699 [1762878389744342/extract_features/3 (pid 4571)] File "/home/linuxmi/venvs/chess-insights/lib/python3.12/site-packages/sklearn/model_selection/_split.py", line 2919, in train_test_split
+2025-11-11 17:26:35.699 [1762878389744342/extract_features/3 (pid 4571)] n_train, n_test = _validate_shuffle_split(
+2025-11-11 17:26:35.700 [1762878389744342/extract_features/3 (pid 4571)] ^^^^^^^^^^^^^^^^^^^^^^^^
+2025-11-11 17:26:35.700 [1762878389744342/extract_features/3 (pid 4571)] File "/home/linuxmi/venvs/chess-insights/lib/python3.12/site-packages/sklearn/model_selection/_split.py", line 2499, in _validate_shuffle_split
+2025-11-11 17:26:35.700 [1762878389744342/extract_features/3 (pid 4571)] raise ValueError(
+2025-11-11 17:26:35.701 [1762878389744342/extract_features/3 (pid 4571)] ValueError: With n_samples=1, test_size=0.2 and train_size=None, the resulting train set will be empty. Adjust any of the aforementioned parameters.
+2025-11-11 17:26:35.701 [1762878389744342/extract_features/3 (pid 4571)]
+2025-11-11 17:26:35.211 [1762878389744342/extract_features/3 (pid 4571)] Task failed.
+2025-11-11 17:26:35.232 Workflow failed.
+2025-11-11 17:26:35.233 Terminating 0 active tasks...
+2025-11-11 17:26:35.233 Flushing logs...
+    Step failure:
+    Step extract_features (task-id 3) failed.
+
+(chess-insights) linuxmi@DESKTOP-UQCGKJU:/mnt/c/Users/lenovo/Documents/chess-insights-pipeline/chess-insights$ ^C
+(chess-insights) linuxmi@DESKTOP-UQCGKJU:/mnt/c/Users/lenovo/Documents/chess-insights-pipeline/chess-insights$ python chess_pipeline_flow.py run
+Metaflow 2.19.7 executing ChessInsightsFlow for user:linuxmi
+Validating your flow...
+    The graph looks good!
+Running pylint...
+    Pylint not found, so extra checks are disabled.
+2025-11-11 17:28:55.190 Workflow starting (run-id 1762878535159204):
+2025-11-11 17:28:55.765 [1762878535159204/start/1 (pid 4609)] Task is starting.
+2025-11-11 17:28:56.630 [1762878535159204/start/1 (pid 4609)] 🔹 Starting ChessInsightsFlow...
+2025-11-11 17:28:56.657 [1762878535159204/start/1 (pid 4609)] PGN directory: src/data
+2025-11-11 17:28:57.228 [1762878535159204/start/1 (pid 4609)] Processed directory: src/data/processed
+2025-11-11 17:28:57.228 [1762878535159204/start/1 (pid 4609)] Model output directory: src/models
+2025-11-11 17:28:57.269 [1762878535159204/start/1 (pid 4609)] Task finished successfully.
+2025-11-11 17:28:57.571 [1762878535159204/load_games/2 (pid 4619)] Task is starting.
+2025-11-11 17:28:58.399 [1762878535159204/load_games/2 (pid 4619)] 🔹 Loading PGN games...
+2025-11-11 17:28:58.415 [1762878535159204/load_games/2 (pid 4619)] → reading sample_games.pgn
+2025-11-11 17:28:58.416 [1762878535159204/load_games/2 (pid 4619)] 🔹 Loaded 1 games
+2025-11-11 17:28:58.435 [1762878535159204/load_games/2 (pid 4619)] ✅ Saved raw data to src/data/processed/games_raw.csv
+2025-11-11 17:28:59.084 [1762878535159204/load_games/2 (pid 4619)] Task finished successfully.
+2025-11-11 17:28:59.347 [1762878535159204/extract_features/3 (pid 4629)] Task is starting.
+2025-11-11 17:29:00.231 [1762878535159204/extract_features/3 (pid 4629)] 🔹 Extracting features...
+2025-11-11 17:29:00.973 [1762878535159204/extract_features/3 (pid 4629)] ⚠ Not enough samples for a train/test split (n=1).
+2025-11-11 17:29:00.875 [1762878535159204/extract_features/3 (pid 4629)] ⚠ Using all data for both training and testing – metrics will NOT be reliable.
+2025-11-11 17:29:00.876 [1762878535159204/extract_features/3 (pid 4629)] 🔹 Train size: 1, test size: 1
+2025-11-11 17:29:00.931 [1762878535159204/extract_features/3 (pid 4629)] Task finished successfully.
+2025-11-11 17:29:01.189 [1762878535159204/train_model/4 (pid 4648)] Task is starting.
+2025-11-11 17:29:02.041 [1762878535159204/train_model/4 (pid 4648)] 🔹 Training model...
+2025-11-11 17:29:03.213 [1762878535159204/train_model/4 (pid 4648)] ✅ Model saved to src/models/rf_chess_model.joblib
+2025-11-11 17:29:04.132 [1762878535159204/train_model/4 (pid 4648)] Task finished successfully.
+2025-11-11 17:29:04.393 [1762878535159204/evaluate/5 (pid 4676)] Task is starting.
+2025-11-11 17:29:05.238 [1762878535159204/evaluate/5 (pid 4676)] 🔹 Evaluating model...
+2025-11-11 17:29:06.069 [1762878535159204/evaluate/5 (pid 4676)] ✅ Accuracy: 1.0000
+2025-11-11 17:29:06.085 [1762878535159204/evaluate/5 (pid 4676)] ✅ Metrics saved to src/models/metrics.json
+2025-11-11 17:29:07.066 [1762878535159204/evaluate/5 (pid 4676)] Task finished successfully.
+2025-11-11 17:29:07.353 [1762878535159204/end/6 (pid 4704)] Task is starting.
+2025-11-11 17:29:08.189 [1762878535159204/end/6 (pid 4704)] 🎉 ChessInsightsFlow completed successfully!
+2025-11-11 17:29:08.201 [1762878535159204/end/6 (pid 4704)] Final accuracy: 1.0
+2025-11-11 17:29:09.019 [1762878535159204/end/6 (pid 4704)] Task finished successfully.
+2025-11-11 17:29:09.079 Done!
