@@ -122,7 +122,7 @@ chess-insights/
 ├── Dockerfile
 ├── .env.example            # environment variables example
 └── src/
-    └── insights/
+    └── chess_insights/
         ├── __init__.py
         ├── cli/
         │   └── main.py
